@@ -6,10 +6,11 @@ import Header from "./components/templates/Header";
 import RootRouter from "./RootRouter";
 
 const cx = classNames.bind(styles);
+const isMobile:boolean = false;
 
 function App() {
 	return (
-		<div className={cx("App")}>
+		<div className={cx("App", isMobile?"M":"D")}>
 			<Aside />
 			<section className={cx("Section")}>
 				<Header />

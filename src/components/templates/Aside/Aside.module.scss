@@ -1,0 +1,14 @@
+@import "src/styles/color";
+
+.container {
+	border-right: 1px solid $border;
+	box-sizing: border-box;
+}
+
+.container.D {
+	min-width: 240px;
+	background-color: $white;
+}
+
+.container.M {}
+

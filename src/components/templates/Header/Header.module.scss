@@ -1,0 +1,14 @@
+@import "src/styles/color";
+
+.container {
+	background-color: map-get($theme-colors, "dark");
+	border-bottom: 1px solid $border;
+	box-sizing: border-box;
+	color: $white;
+}
+
+.container.D {
+	min-height: 64px;
+}
+
+.container.M {}
