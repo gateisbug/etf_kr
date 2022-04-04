@@ -1,19 +1,5 @@
-@import "src/styles/color";
-
-.App.D {
+.App {
 	height: 100vh;
-	background-color: map-get($theme-colors, "light");
 	display: flex;
-	flex-flow: row nowrap;
-
-	.Section {
-		display: flex;
-		flex-flow: column nowrap;
-		height: 100%;
-		width: 100%;
-	}
-
-	.Contents {
-		height: 100%;
-	}
+	flex-flow: column nowrap;
 }

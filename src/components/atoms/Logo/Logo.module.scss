@@ -1,0 +1,13 @@
+@import "src/styles/color";
+
+.Logo {
+	h1 {
+		margin-top: 198px;
+		color: $white;
+		font-size: 84px;
+		line-height: 92px;
+		font-weight: 600;
+		font-family: 'Nunito Sans', sans-serif;
+		text-align: center;
+	}
+}

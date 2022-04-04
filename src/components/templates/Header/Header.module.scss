@@ -1,14 +1,5 @@
-@import "src/styles/color";
-
 .container {
-	background-color: map-get($theme-colors, "dark");
-	border-bottom: 1px solid $border;
-	box-sizing: border-box;
-	color: $white;
+	min-height: 60px;
+	display: flex;
+	flex-flow: row nowrap;
 }
-
-.container.D {
-	min-height: 64px;
-}
-
-.container.M {}

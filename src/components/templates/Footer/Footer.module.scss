@@ -1,0 +1,8 @@
+@import "src/styles/color";
+
+.container {
+	min-height: 48px;
+	background-color: $dark;
+	display: flex;
+	flex-flow: row nowrap;
+}

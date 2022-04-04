@@ -1,0 +1,19 @@
+.container {
+	height: 100%;
+}
+
+.box {
+	padding: 20px;
+}
+
+.button-box {
+	display: flex;
+	flex-flow: row nowrap;
+	align-items: center;
+	justify-content: center;
+	gap: 8px;
+	height: 70px;
+	margin: 12px auto 0;
+	width: auto;
+	max-width: 584px;
+}
