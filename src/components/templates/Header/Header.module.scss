@@ -1,5 +1,24 @@
+@import "src/styles/color";
+
 .container {
 	min-height: 60px;
 	display: flex;
 	flex-flow: row nowrap;
+	padding: 0 15px;
+}
+
+.right {
+	display: flex;
+	flex-grow: 1;
+	align-items: center;
+	flex-direction: row-reverse;
+}
+
+.icon {
+	display: inline-block;
+	width: 36px;
+	height: 36px;
+	background-color: $white;
+	background-image: url("");
+	border-radius: 36px;
 }

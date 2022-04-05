@@ -16,6 +16,12 @@
 		box-shadow: 0 1px 6px 0 $dark;
 		border-color: transparent;
 	}
+
+	&:focus-within {
+		background-color: $light;
+		box-shadow: 0 1px 6px 0 $dark;
+		border-color: transparent;
+	}
 }
 
 .box {
@@ -59,4 +65,10 @@
 	width: 20px;
 	height: 44px;
 	margin-top: -5px;
+}
+
+.clear {
+	&:hover {
+		cursor: pointer;
+	}
 }

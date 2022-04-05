@@ -6,6 +6,8 @@ const cx = classNames.bind(styles);
 
 export default function Footer() {
 	return (
-		<footer className={cx("container")}>Footer</footer>
+		<footer className={cx("container")}>
+			<address>The Pariakapitalismus</address>
+		</footer>
 	)
 }

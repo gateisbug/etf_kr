@@ -5,4 +5,11 @@
 	background-color: $dark;
 	display: flex;
 	flex-flow: row nowrap;
+	justify-content: center;
+	align-items: center;
+
+	address {
+		font-size: 14px;
+		color: $fontDark;
+	}
 }
