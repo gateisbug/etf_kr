@@ -1,10 +1,11 @@
 import React from "react";
+import { func } from "define";
 import classNames from "classnames/bind";
 import styles from "./ButtonBox.module.scss";
 import { Button } from "components/atoms";
 
 interface Props {
-	onClickEvents: any[];
+	onClickEvents: Array<func>;
 }
 
 const cx = classNames.bind(styles);

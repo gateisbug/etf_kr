@@ -8,7 +8,7 @@ const cx = classNames.bind(styles);
 export default function ListPage() {
 	return (
 		<Page>
-			ListPage
+			<p className={cx("")}>ListPage</p>
 		</Page>
 	)
 }

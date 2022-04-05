@@ -1,9 +1,10 @@
 import React from "react";
 import classNames from "classnames/bind";
 import styles from "./Button.module.scss";
+import {func} from "define";
 
 interface Props {
-	onClick?: any;
+	onClick?: func;
 	title?: string;
 	children?: React.ReactNode;
 }

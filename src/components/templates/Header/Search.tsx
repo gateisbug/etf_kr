@@ -12,7 +12,7 @@ export default function Search() {
 
 	useEffect(() => {
 		state[1](query);
-	}, [query])
+	}, [state, query])
 
 	return (
 		<div className={cx("left")}>

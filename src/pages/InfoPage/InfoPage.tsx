@@ -8,7 +8,7 @@ const cx = classNames.bind(styles);
 export default function InfoPage() {
 	return (
 		<Page>
-			InfoPage
+			<p className={cx("")}>InfoPage</p>
 		</Page>
 	)
 }

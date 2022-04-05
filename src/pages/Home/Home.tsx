@@ -14,7 +14,7 @@ export default function Home() {
 
 	const goList = useCallback(() => {
 		navigate('/list');
-	}, [])
+	}, [navigate])
 
 	return (
 		<Page>

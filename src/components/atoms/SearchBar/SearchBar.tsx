@@ -22,7 +22,7 @@ export default function SearchBar({ state, onSearch }:Props) {
 	const onClear = useCallback(()=> {
 		setText("")
 		inputRef.current?.focus();
-	}, [inputRef])
+	}, [setText, inputRef])
 
 	useEffect(() => {
 		function keyUpHander(e:KeyboardEvent) {

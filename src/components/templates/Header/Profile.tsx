@@ -7,7 +7,7 @@ const cx = classNames.bind(styles);
 export default function Profile() {
 	return (
 		<div className={cx("right")}>
-			<a href="https://github.com/gateisbug/etf_kr" target={"_blank"} title={"gitHub"}>
+			<a href="https://github.com/gateisbug/etf_kr" target={"_blank"} title={"gitHub"} rel="noreferrer">
 				<img className={cx("icon")} src={"https://avatars.githubusercontent.com/u/63226802?v=4"} alt={"gitHub"} />
 			</a>
 		</div>

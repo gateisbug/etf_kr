@@ -8,7 +8,7 @@ const cx = classNames.bind(styles);
 export default function SearchPage() {
 	return (
 		<Page>
-			SearchPage
+			<p className={cx("")}>SearchPage</p>
 		</Page>
 	)
 }
