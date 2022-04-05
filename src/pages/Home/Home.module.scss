@@ -1,7 +1,9 @@
-.container {
-	height: 100%;
-}
-
 .box {
-	padding: 20px;
+	padding: 20px 0;
+
+	.search {
+		margin: 0 auto;
+		width: auto;
+		max-width: 584px;
+	}
 }

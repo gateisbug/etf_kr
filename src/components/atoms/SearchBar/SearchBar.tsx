@@ -11,7 +11,7 @@ interface Props {
 
 const cx = classNames.bind(styles);
 
-export default function Search({ state, onSearch }:Props) {
+export default function SearchBar({ state, onSearch }:Props) {
 	const [text, setText] = state;
 	const inputRef = useRef<HTMLInputElement>(null);
 

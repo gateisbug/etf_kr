@@ -1,33 +1,28 @@
-import React, {useCallback, useEffect, useState} from "react";
+import React, { useCallback } from "react";
+import { useNavigate } from "react-router-dom";
 import classNames from "classnames/bind";
 import styles from "./Home.module.scss";
-import { Logo, Search } from "components/atoms";
+import { Logo, SearchBar, Page } from "components/atoms";
 import { ButtonBox } from "components/molecelus";
-import { useNavigate } from "react-router-dom";
+import { useSearchBar } from "hooks";
 
 const cx = classNames.bind(styles);
 
 export default function Home() {
 	const navigate = useNavigate();
-	const state = useState<string>("");
-	const [text] = state;
-
-	const onSearch = useCallback(() => {
-		if(text.length === 0) return;
-		navigate(`/search?value=${text}`);
-	}, [text])
+	const { state, onSearch } = useSearchBar();
 
 	const goList = useCallback(() => {
-		navigate('/list')
+		navigate('/list');
 	}, [])
 
 	return (
-		<section className={cx("container")}>
+		<Page>
 			<Logo />
 			<section className={cx("box")}>
-				<Search state={state} onSearch={onSearch} />
+				<div className={cx("search")}><SearchBar state={state} onSearch={onSearch} /></div>
 				<ButtonBox onClickEvents={[onSearch, goList]} />
 			</section>
-		</section>
+		</Page>
 	)
 }

@@ -2,12 +2,22 @@
 
 .Logo {
 	h1 {
-		margin-top: 198px;
 		color: $white;
-		font-size: 84px;
-		line-height: 92px;
 		font-weight: 600;
 		font-family: 'Nunito Sans', sans-serif;
 		text-align: center;
+
+		&.main {
+			margin-top: 198px;
+			font-size: 84px;
+			line-height: 92px;
+		}
+
+		&.header {
+			display: flex;
+			align-items: center;
+			font-size: 28px;
+			line-height: 60px;
+		}
 	}
 }
