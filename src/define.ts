@@ -3,6 +3,7 @@ export type func = ()=>any
 export type Path = "home" | "search" | "info" | "list" | "about";
 
 export interface ETF {
+	operator: string;
 	name: string;
 	ticker: string;
 	explain: string;

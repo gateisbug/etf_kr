@@ -2,14 +2,15 @@ import { ETF } from "define";
 
 const kodex:ETF[] = [
 	{
+		operator: "삼성투자증권",
 		name: "KODEX 200",
 		ticker: "069500",
 		explain: "대한민국 국가대표! 주식시장을 대표하는 200개 종목으로 구성된 KOSPI 200 지수를 그대로 추적하는, 규모와 거래량에서 대한민국 국가대표 ETF입니다.",
-		tags: [],
+		tags: ["KODEX", "KOSPI 200"],
 		link: "https://m.kodex.com/product_view.do?fId=2ETF01",
 		detail : {
 			index: { title: "KOSPI200", info: "KOSPI200지수는 유가증권시장에 상장된 전체 종목 중에서 시장대표성,업종대표성, 유동성 등을 감안하여 선정된 200개 종목을 시가총액 가중방식으로 산출한 지수로 대한민국의 대표적인 시장지수입니다. (지수산출 : 한국거래소)" },
-			basic: { asset: "53873억원", date: "2002.10.14", fee: 0.15, distribution: true },
+			basic: { asset: "53,019억원", date: "2002.10.14", fee: 0.15, distribution: true },
 			Top10: [
 				{ category: "삼성전자", ticker: "005930", size: 28.63 },
 				{ category: "SK하이닉스", ticker: "000660", size: 5.73 },

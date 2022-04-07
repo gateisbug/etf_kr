@@ -12,6 +12,7 @@ export default function RootRouter() {
 			<Route path="/about" element={<AboutPage />} />
 			<Route path="/list" element={<ListPage />} />
 			<Route path="/info" element={<InfoPage />} />
+			<Route path="/info/:value" element={<InfoPage />} />
 			<Route path="/search" element={<SearchPage />} />
 			<Route path="/search/:value" element={<SearchPage />} />
 			{/*<Route path="/nyse" element={"NYSE"} />*/}
