@@ -5,6 +5,7 @@ import styles from "./Home.module.scss";
 import { Logo, SearchBar, Page } from "components/atoms";
 import { ButtonBox } from "components/molecelus";
 import { useSearchBar } from "hooks";
+import Header from "components/templates/Header";
 
 const cx = classNames.bind(styles);
 
@@ -17,12 +18,15 @@ export default function Home() {
 	}, [navigate])
 
 	return (
-		<Page>
-			<Logo />
-			<section className={cx("box")}>
-				<div className={cx("search")}><SearchBar state={state} onSearch={onSearch} /></div>
-				<ButtonBox onClickEvents={[onSearch, goList]} />
-			</section>
-		</Page>
+		<>
+			<Header />
+			<Page>
+				<Logo />
+				<section className={cx("box")}>
+					<div className={cx("search")}><SearchBar state={state} /></div>
+					<ButtonBox onClickEvents={[onSearch, goList]} />
+				</section>
+			</Page>
+		</>
 	)
 }

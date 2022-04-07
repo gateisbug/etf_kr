@@ -8,16 +8,12 @@ const cx = classNames.bind(styles);
 
 export default function Search() {
 	const query = useQuery();
-	const { state, onSearch } = useSearchBar();
-
-	useEffect(() => {
-		state[1](query);
-	}, [state, query])
+	const { state } = useSearchBar();
 
 	return (
 		<div className={cx("left")}>
 			<Logo sz={"header"} link />
-			<div className={cx("search")}><SearchBar state={state} onSearch={onSearch} /></div>
+			<div className={cx("search")}><SearchBar state={state} defaultValue={query} /></div>
 		</div>
 	)
 }

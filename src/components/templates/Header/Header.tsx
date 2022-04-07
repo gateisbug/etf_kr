@@ -1,40 +1,38 @@
-import React from "react";
-import {useLocation} from "react-router-dom";
+import React, { useMemo } from "react";
 import classNames from "classnames/bind";
 import styles from "./Header.module.scss";
 import { Link, Logo } from "components/atoms";
 import Profile from "./Profile";
 import Search from "./Search";
 
+interface Props {
+	path?: "home"|"search"|"info"|"list";
+}
+
 const cx = classNames.bind(styles);
 
-export default function Header() {
-	const { pathname } = useLocation();
+export default function Header({ path="home" }:Props) {
+	const ConditionalRendering = useMemo(() => {
+		switch (path) {
+			case "search":
+				return ( <Search /> );
+			case "info": case "list":
+				return ( <><Logo sz={"header"} link /><Block /></> );
+			default:
+				return ( <><Link to={'/info'} title={"etf.kr 정보"}>etf.kr 정보</Link><Block /></> )
+		}
+	}, [path])
 
-	if (pathname === "/") {
-		return (
-			<header className={cx("container")}>
-				<Link to={'/info'} title={"etf.kr 정보"}>etf.kr 정보</Link>
-				<div className={cx("block")} />
-				<Profile />
-			</header>
-		)
-	}
-	else if (pathname === "/info") {
-		return (
-			<header className={cx("container", "top")}>
-				<Logo sz={"header"} link />
-				<div className={cx("block")} />
-				<Profile />
-			</header>
-		)
-	}
-	else {
-		return (
-			<header className={cx("container", "top")}>
-				<Search />
-				<Profile />
-			</header>
-		)
-	}
+	return (
+		<header className={cx("container", path !== "home" && "top")}>
+			{ ConditionalRendering }
+			<Profile />
+		</header>
+	)
+}
+
+function Block() {
+	return (
+		<div className={cx("block")} />
+	)
 }

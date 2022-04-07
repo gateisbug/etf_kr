@@ -1,17 +1,16 @@
 import { useEffect, useState } from "react";
 import { useLocation } from "react-router-dom";
 
-export default function useQuery() {
+type Option = 0 | 1 | 2;
+
+export default function useQuery(option:Option=2) {
 	const { pathname } = useLocation();
 	const [query, setQuery] = useState<string>("");
 
 	useEffect(() => {
 		const string = pathname.split("/");
-		if(string.length < 3) return;
-
-		setQuery(string[2])
-		console.log(string[2])
-	}, [pathname]);
+		setQuery(decodeURI(string[option]));
+	}, [pathname, option]);
 
 	return query;
 }
