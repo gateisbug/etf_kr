@@ -13,7 +13,9 @@ export default function Search() {
 	return (
 		<div className={cx("left")}>
 			<Logo sz={"header"} link />
-			<div className={cx("search")}><SearchBar state={state} defaultValue={query} /></div>
+			<div className={cx("search")}>
+				<SearchBar state={state} defaultValue={query} />
+			</div>
 		</div>
 	)
 }

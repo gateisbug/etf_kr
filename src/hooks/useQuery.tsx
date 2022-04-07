@@ -12,5 +12,14 @@ export default function useQuery(option:Option=2) {
 		setQuery(decodeURI(string[option]));
 	}, [pathname, option]);
 
-	return query;
+	return sanitizeQuery(query);
+}
+
+function sanitizeQuery(query:string) {
+	if(query === 'null' || query === 'undefined' || query === 'unknown') {
+		return "";
+	}
+	else {
+		return query;
+	}
 }

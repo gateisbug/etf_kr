@@ -1,5 +1,7 @@
 export type func = ()=>any
 
+export type Path = "home" | "search" | "info" | "list" | "about";
+
 export interface ETF {
 	name: string;
 	ticker: string;
