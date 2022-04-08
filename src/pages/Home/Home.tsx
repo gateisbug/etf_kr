@@ -5,7 +5,7 @@ import styles from "./Home.module.scss";
 import { Logo, SearchBar, Page } from "components/atoms";
 import { ButtonBox } from "components/molecelus";
 import { useSearchBar } from "hooks";
-import Header from "components/templates/Header";
+import Header from "components/organism/Header";
 
 const cx = classNames.bind(styles);
 

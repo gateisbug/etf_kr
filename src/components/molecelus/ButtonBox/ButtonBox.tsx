@@ -5,7 +5,7 @@ import styles from "./ButtonBox.module.scss";
 import { Button } from "components/atoms";
 
 interface Props {
-	onClickEvents: Array<func>;
+	onClickEvents: func[];
 }
 
 const cx = classNames.bind(styles);

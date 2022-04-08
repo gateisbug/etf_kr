@@ -1,17 +1,17 @@
 import React from "react";
-import classNames from "classnames/bind";
-import styles from "./List.module.scss";
+import { useList } from "hooks";
 import { Page } from "components/atoms";
-import Header from "components/templates/Header";
+import { ResultParagraph } from "components/molecelus";
+import Header from "components/organism/Header";
 
-const cx = classNames.bind(styles);
+const Index = useList;
 
 export default function ListPage() {
 	return (
 		<>
 			<Header path={"list"} />
-			<Page>
-				<p className={cx("")}>ListPage</p>
+			<Page box>
+				{ Index.map((etf, idx) => <ResultParagraph key={idx} etf={etf} />) }
 			</Page>
 		</>
 	)

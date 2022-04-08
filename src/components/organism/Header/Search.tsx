@@ -1,13 +1,15 @@
-import React, {useEffect} from "react";
+import React from "react";
 import classNames from "classnames/bind";
 import styles from "./Header.module.scss";
 import { Logo, SearchBar } from "components/atoms";
-import {useQuery, useSearchBar} from "hooks";
+import {useSearchBar} from "hooks";
+import {useParams} from "react-router-dom";
 
 const cx = classNames.bind(styles);
 
 export default function Search() {
-	const query = useQuery();
+	const params = useParams();
+	const query = params.value;
 	const { state } = useSearchBar();
 
 	return (

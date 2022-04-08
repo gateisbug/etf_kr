@@ -2,7 +2,6 @@ import React, {useCallback, useMemo} from "react";
 import classNames from "classnames/bind";
 import styles from "./ResultParagraph.module.scss";
 import { ETF } from "define";
-import {useNavigate} from "react-router-dom";
 
 interface Props {
 	etf: ETF
@@ -11,37 +10,40 @@ interface Props {
 const cx = classNames.bind(styles);
 
 export default function ResultParagraph({ etf }:Props) {
-	const navigate = useNavigate();
-
 	const tags = useMemo(() => {
-		if(etf.tags.length < 1) {
-			return (
-				<p className={cx("opterator")}>
-					{etf.operator}
-				</p>
-			);
-		}
-		const after = etf.tags.reduce((acc, cur) => {
-			return `${acc}, ${cur}`
-		});
+		if(etf.tags.length < 1) return <p className={cx("opterator")}>{etf.operator}</p>;
 
 		return (
 			<p className={cx("opterator")}>
-				{`${etf.operator} > `}
-				<span className={cx('tags')}>{after}</span>
+				<span className={cx("opterator")}>{`${etf.operator}`}</span>
+				<span className={cx('tags')}>{etf.tags.map((item, idx) => <span className={cx("tag")} key={idx}>{item}</span>)}</span>
 			</p>
 		)
-	}, [etf.tags])
+	}, [etf.tags, etf.operator])
 
 	const onClick = useCallback(() => {
-		navigate(`/info/${etf.name}`);
-	}, [etf.name])
+		window.open(etf.link)
+	}, [etf.link])
 
 	return (
-		<article className={cx("Result")}>
+		<section className={cx("Result")}>
 			{tags}
-			<h1 className={cx("header")} onClick={onClick}>{`${etf.name}(${etf.ticker})`}</h1>
-			<p className={cx("explain")}>{etf.explain}</p>
-		</article>
+			<h1 className={cx("header")} onClick={onClick}>
+				{`${etf.name} (${etf.ticker})`}
+			</h1>
+			<article className={cx("article")}>
+				<div className={cx("detail")}>
+					<p>
+						<span className={cx("title")}>운용보수</span>
+						<span className={cx("data")}>{etf.detail.fee}%</span>
+					</p>
+					<p>
+						<span className={cx("title")}>배당금</span>
+						<span className={cx("data")}>{etf.detail.distribution ? "지급":"미지급"}</span>
+					</p>
+				</div>
+				<p className={cx("explain")}>{etf.explain}</p>
+			</article>
+		</section>
 	)
 }

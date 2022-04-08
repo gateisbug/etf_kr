@@ -1,5 +1,4 @@
 import React, { useRef, useCallback } from "react";
-import { OptionalBinding } from "hooks";
 import Looks from "./SearchBarLook";
 
 interface Props {
@@ -17,10 +16,10 @@ export default function SearchBar({ state, defaultValue="" }:Props) {
 
 	const onClear = useCallback(()=> {
 		setText("");
-		OptionalBinding(inputRef.current, () => {
-			inputRef.current!.focus();
-			inputRef.current!.value=""
-		});
+		if(!!inputRef.current) {
+			inputRef.current.focus();
+			inputRef.current.value=""
+		}
 	}, [inputRef])
 
 	return (

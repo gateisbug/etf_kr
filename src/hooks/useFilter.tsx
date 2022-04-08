@@ -1,12 +1,13 @@
-import React, {useEffect, useMemo, useState} from "react";
-import kodex from "resources/kodex";
+import { useEffect, useMemo, useState } from "react";
 import {ETF} from "define";
-import {useQuery} from "./index";
+import {useParams} from "react-router-dom";
+import useList from "./useList";
 
-const Index = kodex;
+const Index = useList;
 
 export default function useFilter() {
-	const query = useQuery();
+	const params = useParams();
+	const query = params.value;
 	const [word, setWord] = useState<string>("");
 
 	const result = useMemo(() => {
@@ -14,7 +15,7 @@ export default function useFilter() {
 	}, [word])
 
 	useEffect(() => {
-		if(query.length < 1) return;
+		if(!query || query.length < 1) return;
 		setWord(query)
 	}, [query])
 
@@ -28,8 +29,9 @@ function Filtering(word:string, index:ETF):boolean {
 		index.operator.toLowerCase(),
 		index.name.toLowerCase(),
 		index.ticker.toLowerCase(),
-		index.detail.index.title.toLowerCase()
 	];
 
-	return !!list.find(element => element.includes(word.toLowerCase()));
+	const tags = index.tags.map((item) => item.toLowerCase());
+
+	return !!list.concat(tags).find(element => element.includes(word.toLowerCase()));
 }
