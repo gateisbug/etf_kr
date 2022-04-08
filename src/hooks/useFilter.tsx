@@ -29,6 +29,7 @@ function Filtering(word:string, index:ETF):boolean {
 		index.operator.toLowerCase(),
 		index.name.toLowerCase(),
 		index.ticker.toLowerCase(),
+		index.index.toLowerCase()
 	];
 
 	const tags = index.tags.map((item) => item.toLowerCase());

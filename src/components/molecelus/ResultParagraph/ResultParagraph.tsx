@@ -39,7 +39,9 @@ export default function ResultParagraph({ etf }:Props) {
 					</p>
 					<p>
 						<span className={cx("title")}>배당금</span>
-						<span className={cx("data")}>{etf.detail.distribution ? "지급":"미지급"}</span>
+						<span className={cx("data", "fee", etf.detail.distribution ? "active":"deactive")}>
+							{etf.detail.distribution ? "지급":"미지급"}
+						</span>
 					</p>
 				</div>
 				<p className={cx("explain")}>{etf.explain}</p>
