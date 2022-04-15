@@ -15,7 +15,7 @@ export default function ResultParagraph({ etf }:Props) {
 
 		return (
 			<p className={cx("opterator")}>
-				<span className={cx("opterator")}>{`${etf.operator}`}</span>
+				<span className={cx("opterator")}>{etf.operator}</span>
 				<span className={cx('tags')}>{etf.tags.map((item, idx) => <span className={cx("tag")} key={idx}>{item}</span>)}</span>
 			</p>
 		)
@@ -35,12 +35,12 @@ export default function ResultParagraph({ etf }:Props) {
 				<div className={cx("detail")}>
 					<p>
 						<span className={cx("title")}>운용보수</span>
-						<span className={cx("data")}>{etf.detail.fee}%</span>
+						<span className={cx("data")}>{etf.fee}</span>
 					</p>
 					<p>
 						<span className={cx("title")}>배당금</span>
-						<span className={cx("data", "fee", etf.detail.distribution ? "active":"deactive")}>
-							{etf.detail.distribution ? "지급":"미지급"}
+						<span className={cx("data", "fee", etf.distribution==="지급" ? "active":"deactive")}>
+							{etf.distribution}
 						</span>
 					</p>
 				</div>
