@@ -25,14 +25,17 @@ export default function useFilter() {
 function Filtering(word:string, index:ETF):boolean {
 	if(word.length < 1) return false;
 
+	const tags = index.tags.find(el => el.toLowerCase().includes(word.toLowerCase()))
+	if(tags) return true;
+
+	if(index.operator.toLowerCase() === word.toLowerCase()) return true;
+
 	const list = [
-		index.operator.toLowerCase(),
 		index.name.toLowerCase(),
 		index.ticker.toLowerCase(),
-		index.index.toLowerCase()
+		index.index.toLowerCase(),
+		index.explain.toLowerCase()
 	];
 
-	const tags = index.tags.map((item) => item.toLowerCase());
-
-	return !!list.concat(tags).find(element => element.includes(word.toLowerCase()));
+	return !!list.find(element => element.includes(word.toLowerCase()));
 }

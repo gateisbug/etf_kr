@@ -1,0 +1,1924 @@
+[
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 원유선물Enhanced(H)",
+    "ticker": "130680",
+    "explain": "높은 초기 투자금을 필요로 하는 원유선물과 달리 소액으로 편리하게 투자가 가능합니다",
+    "tags": [
+      "원자재"
+    ],
+    "index": "S&P GSCI Crude Oil enhanced Index (ER)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7130680002",
+    "fee": "연 0.69%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 농산물선물Enhanced(H)",
+    "ticker": "137610",
+    "explain": "국제 농산물에 투자할 수 있는 편리한 방법~! 생산량 및 거래량을 기준으로 농산물 선물에 투자하는 ETF입니다.",
+    "tags": [
+      "원자재"
+    ],
+    "index": "S&P GSCI Agriculture Enhanced Select Index (ER)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7137610002",
+    "fee": "연 0.69%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 라틴35",
+    "ticker": "105010",
+    "explain": "BRICs의 한 축을 담당하는 브라질 등 중남미 지역 대형주 35종목에 분산투자합니다.",
+    "tags": [
+      "주식",
+      "대표지수"
+    ],
+    "index": "BNY Mellon Latin America 35 ADR Index",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7105010003",
+    "fee": "연 0.49%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 글로벌자원생산기업(합성 H)",
+    "ticker": "276000",
+    "explain": "세계 천연자원의 소유, 관리 또는 생산 분야와 관련된 종목에 분산 투자합니다.",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "Morningstar Global Upstream Natural Resources 지수(Price Return)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7276000007",
+    "fee": "0.40%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 200 선물인버스2X",
+    "ticker": "252710",
+    "explain": "코스피200선물지수 일간수익률의 음의 2배수로 연동되도록 운용합니다.",
+    "tags": [
+      "주식",
+      "대표지수"
+    ],
+    "index": "F-KOSPI200(코스피 200선물지수)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7252710009",
+    "fee": "연 0.022%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 화장품",
+    "ticker": "228790",
+    "explain": "아시아 한류시장의 중심 화장품 산업에 분산투자합니다",
+    "tags": [
+      "주식",
+      "섹터"
+    ],
+    "index": "WISE 화장품",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7228790002",
+    "fee": "연 0.50%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 여행레저",
+    "ticker": "228800",
+    "explain": "늘어나는 여가시간~!앞으로의 성장이 기대되는 여행레저 산업에 분산투자합니다",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "WISE 여행레저",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7228800009",
+    "fee": "연 0.50%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 금속선물(H)",
+    "ticker": "139310",
+    "explain": "세계적으로 높은 활용성을 보이는 구리, 알루미늄, 니켈에 투자합니다.",
+    "tags": [
+      "원자재"
+    ],
+    "index": "S&P GSCI Industrial Metals Select Index (TR)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7139310007",
+    "fee": "연 0.69%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER S&P글로벌인프라(합성)",
+    "ticker": "269370",
+    "explain": "선진국의 우수한 인프라 기업(에너지, 운송, 유틸리티 등)에 분산투자합니다.",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "S&P Global Infrastructure 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7269370003",
+    "fee": "0.40%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 리츠부동산인프라",
+    "ticker": "329200",
+    "explain": "국내 최초 부동산 상장 리츠, 인프라 펀드에 투자하는 인컴형 ETF입니다",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "Fnguide 리츠부동산인프라 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7329200000",
+    "fee": "연 0.29%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 금은선물(H)",
+    "ticker": "139320",
+    "explain": "글로벌 대표적인 안전자산인 금에 90%, 산업용 수요가 높은 은에 10% 비중으로 투자합니다.",
+    "tags": [
+      "원자재"
+    ],
+    "index": "S&P GSCI Precious Metals Index (TR)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7139320006",
+    "fee": "연 0.69%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 골드선물(H)",
+    "ticker": "319640",
+    "explain": "미국상품거래소에 상장된 금선물 가격을 기준으로 산출된 S&P GSCI GOLD Total Return 지수를 추종합니다.",
+    "tags": [
+      "원자재"
+    ],
+    "index": "S&P GSCI Gold Total Return",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7319640009",
+    "fee": "연 0.39%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 미디어컨텐츠",
+    "ticker": "228810",
+    "explain": "세계속에 뻗어나가는 한류 문화~! 미디어컨텐츠 산업에 분산투자합니다",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "WISE 미디어컨텐츠 Index",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7228810008",
+    "fee": "연 0.50%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 인버스",
+    "ticker": "123310",
+    "explain": "코스피200 지수 일간변동률 음의 1배수로 연동되도록 운용합니다.",
+    "tags": [
+      "주식",
+      "대표지수"
+    ],
+    "index": "F-KOSPI200 지수(KOSPI200 선물지수)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7123310005",
+    "fee": "연 0.022%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 차이나CSI300 인버스(합성)",
+    "ticker": "217780",
+    "explain": "중국본토 A주로 구성된 CSI300지수 일간수익률의 음의 1배수로 연동되도록 운용합니다.",
+    "tags": [
+      "주식",
+      "대표지수"
+    ],
+    "index": "CSI300 (원화환산)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7217780006",
+    "fee": "연 0.58%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 200 산업재",
+    "ticker": "227550",
+    "explain": "코스피200구성종목 중 산업재에 속하는 종목에 분산투자합니다.",
+    "tags": [
+      "주식",
+      "섹터"
+    ],
+    "index": "KOSPI 200 산업재",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7227550001",
+    "fee": "연 0.40%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 200 중공업",
+    "ticker": "139230",
+    "explain": "코스피200구성종목 중 중공업에 속하는 종목에 분산투자합니다.",
+    "tags": [
+      "주식",
+      "섹터"
+    ],
+    "index": "KOSPI 200 중공업",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7139230007",
+    "fee": "연 0.40%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 방송통신",
+    "ticker": "098560",
+    "explain": "한국거래소가 발표하는 KRX Media&Telecom 지수를 기초지수로 하여 방송통신 기업에 분산투자합니다.",
+    "tags": [
+      "주식",
+      "섹터"
+    ],
+    "index": "KRX Media &Telecom",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7098560006",
+    "fee": "연 0.46%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 200 철강소재",
+    "ticker": "139240",
+    "explain": "코스피200구성종목 중 철강소재에 속하는 종목에 분산투자합니다.",
+    "tags": [
+      "주식",
+      "섹터"
+    ],
+    "index": "KOSPI 200 철강소재",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7139240006",
+    "fee": "연 0.40%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 구리실물",
+    "ticker": "160580",
+    "explain": "전자부품, 선박, 건축까지 산업전반에 널리 사용되는 구리에 투자하는 ETF입니다.",
+    "tags": [
+      "원자재"
+    ],
+    "index": "S&P GSCI Cash Copper Index",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7160580007",
+    "fee": "연 0.83%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER S&P 글로벌헬스케어(합성)",
+    "ticker": "248270",
+    "explain": "글로벌 고령화와 의료비 지출 등으로 빠르게 성장하는 글로벌헬스케어 기업에 분산투자합니다",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "S&P Global 1200 Health Care Custom Index",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7248270001",
+    "fee": "연 0.40%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 중국소비테마",
+    "ticker": "150460",
+    "explain": "커져가는 중국 소비 시장~! 중국소비테마에 분산투자합니다",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "Fnguide 중국내수테마",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7150460004",
+    "fee": "연 0.50%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 미국달러선물레버리지",
+    "ticker": "261110",
+    "explain": "한국거래소에서 제공하는 미국달러선물 지수 일간수익률의 2배 수익률을 추종합니다.",
+    "tags": [
+      "통화"
+    ],
+    "index": "미국달러선물지수 (F-USDKRW)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7261110001",
+    "fee": "연 0.47%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 리츠부동산인프라채권TR KIS",
+    "ticker": "341850",
+    "explain": "국내 부동산, 인프라 자산과 채권에 같이 투자하는 ETF!",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "KIS 리츠부동산인프라채권TR 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7341850006",
+    "fee": "연 0.22%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 미국S&P500 선물인버스(H)",
+    "ticker": "225030",
+    "explain": "미국 주식시장을 대표하는 S&P500 지수 일간수익률의 음의 1배수로 연동되도록 운용합니다.",
+    "tags": [
+      "주식",
+      "대표지수"
+    ],
+    "index": "S&P 500 futures Total Return Index",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7225030006",
+    "fee": "연 0.59%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 모멘텀",
+    "ticker": "147970",
+    "explain": "달리는 말에 올라타세요~! 올라가는 자산은 그 추세를 유지하려는 경향이 있다는 원리에 바탕을 두고 투자합니다.",
+    "tags": [
+      "주식",
+      "스마트베타"
+    ],
+    "index": "FnGuide 모멘텀",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7147970008",
+    "fee": "연 0.29%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 지주회사",
+    "ticker": "307520",
+    "explain": "유가증권 시장에서 공정거래위원회가 발표하는 지주회사 종목에 분산투자합니다",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "FnGuide 지주회사 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7307520007",
+    "fee": "연 0.50%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 로우볼",
+    "ticker": "174350",
+    "explain": "주가 변동성이 낮은 종목들로 포트폴리오를 구성해 불확실한 증시상황에서도 안정적인 성과를 추구합니다.",
+    "tags": [
+      "주식",
+      "스마트베타"
+    ],
+    "index": "FnGuide Low volatility 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7174350009",
+    "fee": "연 0.40%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 미국달러단기채권액티브",
+    "ticker": "329750",
+    "explain": "국내 최초~! 미국달러 현물 채권에 투자하는 상품입니다",
+    "tags": [
+      "채권",
+      "단기채권"
+    ],
+    "index": "KIS U.S. Treasury Bond 0-1Y 지수(총수익지수)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7329750004",
+    "fee": "연 0.30%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 코스닥150 선물인버스",
+    "ticker": "250780",
+    "explain": "코스닥150 선물지수 일간수익률의 음의 1배수로 연동되도록 운용합니다",
+    "tags": [
+      "주식",
+      "대표지수"
+    ],
+    "index": "F-KOSDAQ 150 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7250780004",
+    "fee": "연 0.32%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 우량가치",
+    "ticker": "227570",
+    "explain": "유가증권 상장 종목 중 밸류팩터 및 퀄리티&안정성 팩터를 1:1로 스코어링하여 상위종목에 투자합니다.",
+    "tags": [
+      "주식",
+      "스마트베타"
+    ],
+    "index": "FnGuide 퀄리티 밸류 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7227570009",
+    "fee": "연 0.40%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 은행",
+    "ticker": "091220",
+    "explain": "유가증권 및 코스닥 시장에 상장된 은행주 종목에 분산투자합니다",
+    "tags": [
+      "주식",
+      "섹터"
+    ],
+    "index": "KRX Banks",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7091220004",
+    "fee": "연 0.46%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 경기방어",
+    "ticker": "139280",
+    "explain": "코스피200구성종목 중 생활소비재 및 건강관리에 속하는 종목에 분산투자합니다.",
+    "tags": [
+      "주식",
+      "섹터"
+    ],
+    "index": "KOSPI200 경기방어소비재",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7139280002",
+    "fee": "연 0.40%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 200 생활소비재",
+    "ticker": "227560",
+    "explain": "코스피200구성종목 중 생활소비재에 속하는 종목에 분산투자합니다",
+    "tags": [
+      "주식",
+      "섹터"
+    ],
+    "index": "KOSPI 200 생활소비재",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7227560000",
+    "fee": "연 0.40%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 200 동일가중",
+    "ticker": "252000",
+    "explain": "코스피200지수의 구성종목 비중을 일정주기(분기)마다 동일한 비중으로 조정합니다.",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "코스피 200 동일가중지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7252000005",
+    "fee": "연 0.25%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 200 건설",
+    "ticker": "139220",
+    "explain": "코스피200구성종목 중 건설에 속하는 종목에 분산투자합니다.",
+    "tags": [
+      "주식",
+      "섹터"
+    ],
+    "index": "KOSPI 200 건설",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7139220008",
+    "fee": "연 0.40%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 일본TOPIX 헬스케어(합성)",
+    "ticker": "248260",
+    "explain": "세계 2위의 의약품 및 의료기기 시장을 가진 일본 헬스케어 시장에 투자합니다",
+    "tags": [
+      "주식",
+      "섹터"
+    ],
+    "index": "TOPIX-17 Pharmaceuticals Index (Price Return Index)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7248260002",
+    "fee": "연 0.40%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 코스피고배당",
+    "ticker": "210780",
+    "explain": "배당수익의 힘~! 우량중소형 종목 중심으로 높은 배당수익률을 추구하는 기업에 분산투자합니다.",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "코스피 고배당 50 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7210780003",
+    "fee": "연 0.29%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 200 금융",
+    "ticker": "139270",
+    "explain": "코스피200구성종목 중 금융에 속하는 종목에 분산투자합니다",
+    "tags": [
+      "주식",
+      "섹터"
+    ],
+    "index": "KOSPI 200 금융",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7139270003",
+    "fee": "연 0.40%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER CD금리투자KIS(합성)",
+    "ticker": "357870",
+    "explain": "매일 고시되는 'CD 91일 금리' 수익률을 받을 수 있는 국내 최초 CD금리에 투자하는 ETF!",
+    "tags": [
+      "채권",
+      "단기채권"
+    ],
+    "index": "KIS CD금리투자 지수(총수익지수)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7357870005",
+    "fee": "연 0.15%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 단기채권액티브",
+    "ticker": "272580",
+    "explain": "국채, 통안채, 회사채 등을 편입하여 소규모로 거래가 가능해 매매가 편리합니다.",
+    "tags": [
+      "채권",
+      "단기채권"
+    ],
+    "index": "KIS MSB 3M Plus Index",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7272580002",
+    "fee": "연 0.07%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 단기통안채",
+    "ticker": "157450",
+    "explain": "한국은행에서 발행하는 초단기형 통화안정채권으로 금리상승에 따른 손실위험 최소화를 추구합니다.",
+    "tags": [
+      "채권",
+      "단기채권"
+    ],
+    "index": "KIS MSB 3M 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7157450008",
+    "fee": "연 0.09%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 미국MSCI리츠(합성 H)",
+    "ticker": "182480",
+    "explain": "미국 상업용 부동산에 투자하여 안정적인 인컴수익을 추구합니다.",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "MSCI US REIT Index(PR)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7182480004",
+    "fee": "0.24%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER Fn신재생에너지",
+    "ticker": "377990",
+    "explain": "미래를 이끌어갈 한국의 신재생 에너지 산업에 투자합니다.",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "FnGuide 신재생에너지",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7377990007",
+    "fee": "연 0.50%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 경기방어채권혼합",
+    "ticker": "237440",
+    "explain": "생활소비재 및 건강관리에 속하는 경기방어지수에 30% 채권지수에 70% 비율로 투자합니다",
+    "tags": [
+      "주식",
+      "섹터"
+    ],
+    "index": "경기방어소비재 채권혼합지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7237440003",
+    "fee": "연 0.20%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 미국나스닥바이오",
+    "ticker": "203780",
+    "explain": "건강, 의료 부문의 패러다임을 변화시키는 바이오 기술~! 미국 나스닥 시장의 바이오, 헬스케어 기업에 투자합니다",
+    "tags": [
+      "주식",
+      "섹터"
+    ],
+    "index": "NASDAQ Biotechnology Index",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7203780002",
+    "fee": "연 0.30%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 미국다우존스30",
+    "ticker": "245340",
+    "explain": "미국 뉴욕 증권거래 시장에 상장된 우량기업 30개 종목에 분산투자합니다",
+    "tags": [
+      "주식",
+      "대표지수"
+    ],
+    "index": "Dow Jones Industrial Average Index (INDU)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7245340005",
+    "fee": "연 0. 35%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 배당성장",
+    "ticker": "211560",
+    "explain": "주당순이익 성장률이 높은 50종목으로 구성된 코스피 배당성장 50지수 수익률을 추종합니다.",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "코스피 배당성장 50",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7211560008",
+    "fee": "연 0.15%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER Fn메타버스",
+    "ticker": "400970",
+    "explain": "무한한 잠재력을 지닌 국내 메타버스 기업에 투자",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "FnGuide 메타버스테마",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7400970000",
+    "fee": "연 0.45%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 국채3년",
+    "ticker": "114820",
+    "explain": "한국거래소가 산출하는 채권시장 대표지수인 KTB Index지수를 추종합니다.",
+    "tags": [
+      "채권",
+      "단기채권"
+    ],
+    "index": "KTBINDEX",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7114820004",
+    "fee": "연 0.15%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 코스피중형주",
+    "ticker": "277650",
+    "explain": "코스피 시가총액 상위 101~300위 종목에 분산투자합니다",
+    "tags": [
+      "주식",
+      "대표지수"
+    ],
+    "index": "코스피 중형주 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7277650008",
+    "fee": "연 0.29%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 200 헬스케어",
+    "ticker": "227540",
+    "explain": "다가오는 고령화사회~! 코스피200구성종목 중 헬스케어 서비스에 속하는 종목에 분산투자합니다.",
+    "tags": [
+      "주식",
+      "섹터"
+    ],
+    "index": "코스피 200 헬스케어 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7227540002",
+    "fee": "연 0.40%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 미국S&P500",
+    "ticker": "360750",
+    "explain": "성장하는 미국 시장, 대표지수로 투자하자! TIGER 미국S&P500",
+    "tags": [
+      "주식",
+      "대표지수"
+    ],
+    "index": "S&P500 Index",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7360750004",
+    "fee": "연 0.07%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 일본TOPIX (합성 H)",
+    "ticker": "195920",
+    "explain": "잃어버린 20년에서 벗어나 경제 부활중인 일본경제에 투자합니다",
+    "tags": [
+      "주식",
+      "대표지수"
+    ],
+    "index": "TOPIX 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7195920004",
+    "fee": "연 0.24%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 200 커버드콜 ATM",
+    "ticker": "289480",
+    "explain": "코스피200을 매수하는 동시에 코스피200콜옵션을 매도하는 코스피200커버드콜 ATM지수를 추종합니다.",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "코스피 200 커버드콜 ATM 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7289480006",
+    "fee": "연 0.38%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 단기선진하이일드(합성 H)",
+    "ticker": "182490",
+    "explain": "미국에 80% 이상 투자하는 선진국 중심의 하이일드 채권형 ETF입니다.",
+    "tags": [
+      "채권",
+      "단기채권"
+    ],
+    "index": "Markit iBoxx USD Liquid High Yield 0-5 Index(PR)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7182490003",
+    "fee": "0.24%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 코스닥150 IT",
+    "ticker": "261060",
+    "explain": "정보기술이 힘이다~! 코스닥150 구성종목 중 정보기술에 속하는 종목에 분산투자합니다.",
+    "tags": [
+      "주식",
+      "섹터"
+    ],
+    "index": "코스닥 150 정보기술 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7261060008",
+    "fee": "연 0.40%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 중장기국채",
+    "ticker": "302190",
+    "explain": "KIS 국채 3~10년 지수를 추종합니다.",
+    "tags": [
+      "채권",
+      "장기채권"
+    ],
+    "index": "KIS 국채 3-10년 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7302190004",
+    "fee": "연 0.15%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 가격조정",
+    "ticker": "217790",
+    "explain": "지난 2년간 수익률 상위종목이였으나 최근 1개월간 하락폭이 큰 30종목에 투자합니다.",
+    "tags": [
+      "주식",
+      "스마트베타"
+    ],
+    "index": "FnGuide 컨트레리안 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7217790005",
+    "fee": "연 0.29%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 미국채10년선물",
+    "ticker": "305080",
+    "explain": "S&P의 10-Year US Treasury Future지수를 기초지수로 하여 채권 및 채권관련 장내파생상품에 투자합니다.",
+    "tags": [
+      "채권",
+      "장기채권"
+    ],
+    "index": "S&P 10-Year U.S. Treasury Note Futures(ER)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7305080004",
+    "fee": "연 0.29%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 증권",
+    "ticker": "157500",
+    "explain": "지속적으로 성장하는 한국 경제~! 증권 산업에 분산투자합니다.",
+    "tags": [
+      "주식",
+      "섹터"
+    ],
+    "index": "Fnguide 증권",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7157500000",
+    "fee": "연 0.40%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 삼성그룹펀더멘털",
+    "ticker": "138520",
+    "explain": "한국경제의 힘 삼성그룹기업에 분산투자합니다",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "MKF SAMs FW",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7138520002",
+    "fee": "연 0.15%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 200 커뮤니케이션서비스",
+    "ticker": "315270",
+    "explain": "코스피200구성종목 중 커뮤니케이션 서비스에 속하는 종목에 분산투자합니다",
+    "tags": [
+      "주식",
+      "섹터"
+    ],
+    "index": "KOSPI 200 커뮤니케이션서비스 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7315270009",
+    "fee": "연 0.40%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 미국S&P500 선물(H)",
+    "ticker": "143850",
+    "explain": "미국을 대표하는 S&P500 기초자산으로 하는 주가지수 선물에 투자하며 달러에 대한 환햇지를 시행합니다",
+    "tags": [
+      "주식",
+      "대표지수"
+    ],
+    "index": "S&P 500 Futures Index(ER)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7143850006",
+    "fee": "연 0.30%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER AI코리아그로스액티브",
+    "ticker": "365040",
+    "explain": "국내 최초, AI를 활용한 주식형 액티브 ETF!",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "KOSPI",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7365040005",
+    "fee": "연 0.40%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 미국달러선물인버스2X",
+    "ticker": "261120",
+    "explain": "한국거래소에서 제공하는 미국달러선물 지수 일간변동률의 음의 2배수로 연동되도록 운용합니다.",
+    "tags": [
+      "통화"
+    ],
+    "index": "미국달러선물지수 (F-USDKRW)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7261120000",
+    "fee": "연 0.47%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 코스피",
+    "ticker": "277630",
+    "explain": "대한민국 유가증권 시장에 분산투자합니다.",
+    "tags": [
+      "주식",
+      "대표지수"
+    ],
+    "index": "코스피 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7277630000",
+    "fee": "연 0.15%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 코스닥150",
+    "ticker": "232080",
+    "explain": "코스닥 시장을 대표하는 150개 종목에 분산투자합니다",
+    "tags": [
+      "주식",
+      "대표지수"
+    ],
+    "index": "코스닥 150",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7232080002",
+    "fee": "0.19%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 200 커버드콜5%OTM",
+    "ticker": "166400",
+    "explain": "코스피200 수익률을 추구하면서 현재 주가수준보다 높은 콜옵션을 매도하여 하락위험을 부분적으로 방어합니다.",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "코스피 200 커버드콜 5% OTM 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7166400002",
+    "fee": "연 0.38%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 코스피대형주",
+    "ticker": "277640",
+    "explain": "코스피 시가총액 상위 100개 종목에 분산투자합니다",
+    "tags": [
+      "주식",
+      "대표지수"
+    ],
+    "index": "코스피 대형주 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7277640009",
+    "fee": "연 0.29%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 2차전지테마",
+    "ticker": "305540",
+    "explain": "전기차 ESS시장 급성장, 2차전지 시장이 뜬다.대한민국 2차전지 밸류체인에 분산투자합니다.",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "WISE 2차전지 테마 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7305540007",
+    "fee": "연 0.50%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 차이나클린에너지SOLACTIVE",
+    "ticker": "396510",
+    "explain": "신재생에너지 산업 선두 국가인 중국의 클린에너지 테마에 투자합니다.",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "Solactive China Clean Energy 지수(원화환산)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7396510000",
+    "fee": "연 0.49%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 일본엔선물",
+    "ticker": "292560",
+    "explain": "안전자산의 대표적 통화중 하나인 일본엔화~! 한국거래소에서 거래되는 원엔선물에 주로 투자합니다.",
+    "tags": [
+      "통화"
+    ],
+    "index": "엔선물지수(F-JPYKRW)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7292560000",
+    "fee": "연 0.25%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 현대차그룹+펀더멘털",
+    "ticker": "138540",
+    "explain": "한국경제의 힘 현대차그룹기업에 분산투자합니다",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "MKF 현대차그룹+ FW",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7138540000",
+    "fee": "연 0.15%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 헬스케어",
+    "ticker": "143860",
+    "explain": "고령화시대 커져가는 건강에 대한 관심~! 의약품제조업 및 의료정밀산업군에 속하는 종목에 분산투자합니다.",
+    "tags": [
+      "주식",
+      "섹터"
+    ],
+    "index": "KRX Health Care 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7143860005",
+    "fee": "연 0.40%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 200",
+    "ticker": "102110",
+    "explain": "대한민국 대표 우량기업 200개 종목에 분산투자합니다",
+    "tags": [
+      "주식",
+      "대표지수"
+    ],
+    "index": "KOSPI 200",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7102110004",
+    "fee": "연 0.05%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER KRX300",
+    "ticker": "292160",
+    "explain": "유가증권과 코스닥 시장 통합대표 300개 종목에 분산투자합니다",
+    "tags": [
+      "주식",
+      "대표지수"
+    ],
+    "index": "KRX 300 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7292160009",
+    "fee": "연 0.09%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 200 TR",
+    "ticker": "310960",
+    "explain": "대한민국 200개 우량기업에 투자하면서 배당수익의 재투자 효과도 누릴 수 있습니다.",
+    "tags": [
+      "주식",
+      "대표지수"
+    ],
+    "index": "KOSPI 200 TR 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7310960000",
+    "fee": "연 0.09%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 의료기기",
+    "ticker": "307510",
+    "explain": "고령화시대 커져가는 건강에 대한 관심~! 의료장비 및 서비스산업에 분산투자합니다",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "FnGuide 의료기기 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7307510008",
+    "fee": "연 0.50%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER LG그룹+펀더멘털",
+    "ticker": "138530",
+    "explain": "한국경제의 힘 LG그룹기업에 분산투자합니다",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "MKF LG그룹+ FW",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7138530001",
+    "fee": "연 0.15%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 200 경기소비재",
+    "ticker": "139290",
+    "explain": "코스피200구성종목 중 경기소비재에 속하는 종목에 분산투자합니다",
+    "tags": [
+      "주식",
+      "섹터"
+    ],
+    "index": "KOSPI 200 경기소비재",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7139290001",
+    "fee": "연 0.40%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER MSCI KOREA ESG 리더스",
+    "ticker": "289260",
+    "explain": "환경/사회/지배구조 등 사회책임투자(ESG)지수가 우수한 기업에 분산투자합니다",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "MSCI KOREA COUNTRY ESG LEADER CAPPED(Price, KRW, D-0)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7289260002",
+    "fee": "연 0.40%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 글로벌클라우드컴퓨팅INDXX",
+    "ticker": "371450",
+    "explain": "언택트 시대와 함께 도약하는 클라우드 산업! 글로벌 클라우드 산업에 투자하는 ETF입니다",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "INDXX Global Cloud Computing 지수(원화환산)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7371450008",
+    "fee": "연 0.49%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 미국나스닥100",
+    "ticker": "133690",
+    "explain": "4차 산업혁명의 수혜가 기대되는 IT, 소비재, 헬스케어 중심으로 구성된 미국 나스닥 시장 분산 투자합니다",
+    "tags": [
+      "주식",
+      "대표지수"
+    ],
+    "index": "NASDAQ-100 Index",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7133690008",
+    "fee": "연 0.07%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER MSCI KOREA ESG 유니버설",
+    "ticker": "289250",
+    "explain": "환경/사회/지배구조 등 사회책임투자(ESG)에 소임을 다하고 있는 기업에 분산투자합니다",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "MSCI KOREA ESG UNIVERSAL Issuer Capped 25% 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7289250003",
+    "fee": "연 0.40%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 탄소효율그린뉴딜",
+    "ticker": "376410",
+    "explain": "탄소중립을 이행하고 환경을 고려하는 기업에 가중투자하는 ETF",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "KRX/S&P 탄소효율그린뉴딜 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7376410007",
+    "fee": "연 0.09%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER KRX 바이오 K-뉴딜 ETF",
+    "ticker": "364970",
+    "explain": "한국 바이오 산업을 대표하는 10개 기업에 투자합니다.",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "KRX 바이오 K-뉴딜 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7364970004",
+    "fee": "연 0.40%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 반도체",
+    "ticker": "091230",
+    "explain": "4차 산업의 쌀이라고 불리는 반도체~! 반도체 관련 기업에 분산투자합니다.",
+    "tags": [
+      "주식",
+      "섹터"
+    ],
+    "index": "KRX Semicon",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7091230003",
+    "fee": "연 0.46%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER MSCI KOREA TR",
+    "ticker": "310970",
+    "explain": "대한민국 중대형주 기업에 투자하면서 배당수익의 재투자 효과도 누릴 수 있습니다.",
+    "tags": [
+      "주식",
+      "대표지수"
+    ],
+    "index": "MSCI KOREA Gross TR 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7310970009",
+    "fee": "연 0.12%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 퓨처모빌리티액티브",
+    "ticker": "387280",
+    "explain": "모빌리티 혁신을 선도하는 한국의 핵심 기업에 집중 투자합니다.",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "FnGuide 퓨처모빌리티 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7387280001",
+    "fee": "연 0.77%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 미국테크TOP10 INDXX",
+    "ticker": "381170",
+    "explain": "미국 나스닥 상장 거대 멀티플랫폼 상위 10종목에 투자합니다.",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "Indxx US Tech Top10 지수(Price Return)(원화환산) * 100%",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7381170000",
+    "fee": "연 0.49%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER KTOP30",
+    "ticker": "228820",
+    "explain": "대한민국 대표 초우량기업 30개 종목에 분산투자합니다",
+    "tags": [
+      "주식",
+      "대표지수"
+    ],
+    "index": "KTOP 30",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7228820007",
+    "fee": "연 0.25%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 차이나CSI300",
+    "ticker": "192090",
+    "explain": "글로벌 경제성장을 이끄는 중국본토 A주에 손쉽게 투자할 수 있는 ETF 입니다",
+    "tags": [
+      "주식",
+      "대표지수"
+    ],
+    "index": "CSI 300 Index (위안화 노출형)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7192090009",
+    "fee": "연 0.63%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 일본니케이225",
+    "ticker": "241180",
+    "explain": "경제 부활중인 일본경제~! 일본 동경거래소에 상장된 유동성 높은 225개 주식에 분산투자합니다",
+    "tags": [
+      "주식",
+      "대표지수"
+    ],
+    "index": "니케이 225 지수(Nikkei 225)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7241180009",
+    "fee": "연 0.35%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 우선주",
+    "ticker": "261140",
+    "explain": "우선주 종목 중 시장규모/유동성/배당실적을 기준으로 선정한 우량종목중심으로 투자합니다.",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "코스피 우선주 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7261140008",
+    "fee": "연 0.29%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER KRX기후변화솔루션",
+    "ticker": "404540",
+    "explain": "저탄소 전환을 선도하는 친환경 기술혁신 기업에 투자합니다.",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "KRX 기후변화솔루션 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7404540007",
+    "fee": "연 0.09%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 인도니프티50 레버리지(합성)",
+    "ticker": "236350",
+    "explain": "높은 경제성장률을 보여주는 인도~! 인도Nifty50지수 일간수익률의 양의 2배수 수익률을 추구합니다",
+    "tags": [
+      "주식",
+      "대표지수"
+    ],
+    "index": "Nifty 50",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7236350005",
+    "fee": "연 0.58%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 유로스탁스50 (합성 H)",
+    "ticker": "195930",
+    "explain": "안정적인 경제성장을 보이고 있는 유로존 12개국에 상장된 주식 중 시가총액 상위 50종목에 투자하는 ETF입니다",
+    "tags": [
+      "주식",
+      "대표지수"
+    ],
+    "index": "EURO STOXX 50 지수(Price Return)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7195930003",
+    "fee": "0.24%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 글로벌BBIG액티브",
+    "ticker": "387270",
+    "explain": "나스닥과 글로벌 BBIG에 집중 투자합니다.",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "NASDAQ-100 Index",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7387270002",
+    "fee": "연 0.55%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 소프트웨어",
+    "ticker": "157490",
+    "explain": "지식정보사회에 중요성이 커지는 소프트웨어 산업에 분산투자합니다",
+    "tags": [
+      "주식",
+      "섹터"
+    ],
+    "index": "FnGuide 소프트웨어",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7157490004",
+    "fee": "연 0.40%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 200 IT",
+    "ticker": "139260",
+    "explain": "지식정보화사회~! 코스피200구성종목 중 정보기술에 속하는 종목에 분산투자합니다.",
+    "tags": [
+      "주식",
+      "섹터"
+    ],
+    "index": "KOSPI 200 정보기술",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7139260004",
+    "fee": "연 0.40%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 차이나항셍25",
+    "ticker": "117690",
+    "explain": "중국 대형 은행주, 정보기술, 에너지, 통신서비스 등 홍콩거래소에 상장된 중국 대표기업에 분산투자합니다.",
+    "tags": [
+      "주식",
+      "대표지수"
+    ],
+    "index": "Hang Seng China (Hong Kong-listed) 25 Index",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7117690008",
+    "fee": "연 0.49%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER글로벌리튬&2차전지 SOLACTIVE (합성)",
+    "ticker": "394670",
+    "explain": "리튬 채굴, 2차전지 배터리 및 완성차 업체까지 글로벌 배터리 관련 산업 전반에 투자합니다.",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "Solactive Global Lithium 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7394670004",
+    "fee": "0.49%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 글로벌4차산업혁신기술(합성 H)",
+    "ticker": "275980",
+    "explain": "사물인터넷, 인공지능, 바이오까지 전세계의 핵심 경쟁력을 보여 주는 주요 기업에 분산투자합니다",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "Morningstar Exponential Technologies 지수(Price Return)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7275980001",
+    "fee": "0.40%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER Top 10",
+    "ticker": "A292150",
+    "explain": "유가증권과 코스닥 유동시가총액 상위 10개 종목에 분산투자합니다",
+    "tags": [
+      "주식",
+      "대표지수"
+    ],
+    "index": "FnGuide Top10 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7292150000",
+    "fee": "연 0.15%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 200 에너지화학",
+    "ticker": "139250",
+    "explain": "코스피200구성종목 중 에너지화학에 속하는 종목에 분산투자합니다.",
+    "tags": [
+      "주식",
+      "섹터"
+    ],
+    "index": "KOSPI 200 에너지화학",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7139250005",
+    "fee": "연 0.40%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER Fn반도체TOP10",
+    "ticker": "396500",
+    "explain": "삼성전자&SK하이닉스를 비롯한 국내 반도체 TOP10에 집중투자",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "FnGuide 반도체 TOP10 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7396500001",
+    "fee": "연 0.45%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 차이나HSCEI",
+    "ticker": "245360",
+    "explain": "여전히 높은 중국의 성장 잠재력에 주목합니다. 홍콩시장에 상장된 중국본토기업에 분산투자합니다.",
+    "tags": [
+      "주식",
+      "대표지수"
+    ],
+    "index": "HSCEI(Hang Seng China Enterprises Index)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7245360003",
+    "fee": "연 0.35%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER KRX 인터넷 K-뉴딜 ETF",
+    "ticker": "365000",
+    "explain": "한국 인터넷 산업을 대표하는 10개 기업에 투자합니다.",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "KRX 인터넷 K-뉴딜 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7365000009",
+    "fee": "연 0.40%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 유로스탁스 배당30",
+    "ticker": "245350",
+    "explain": "지속적인 배당성향 증가세가 기대되는 유로지역 기업들의 배당주에 분산 투자합니다.",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "Euro Stoxx Select Dividend 30 Index",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7245350004",
+    "fee": "연 0.35%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 미국S&P500 레버리지(합성 H)",
+    "ticker": "A225040",
+    "explain": "미국 주식시장을 대표하는 S&P500 지수 일간수익률의 양의 2배수 수익률을 추구합니다",
+    "tags": [
+      "주식",
+      "대표지수"
+    ],
+    "index": "S&P 500 Index",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7225040005",
+    "fee": "연 0.25%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 코스닥150 레버리지",
+    "ticker": "233160",
+    "explain": "코스닥150지수 일간수익률의 양의 2배수 수익률을 추구합니다.",
+    "tags": [
+      "주식",
+      "대표지수"
+    ],
+    "index": "코스닥150",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7233160001",
+    "fee": "연 0.32%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER K게임",
+    "ticker": "300610",
+    "explain": "전 세계에서 인정하는 K게임 산업에 분산투자합니다",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "WISE K 게임 테마 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7300610003",
+    "fee": "연 0.50%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER KRX 2차전지 K-뉴딜 ETF",
+    "ticker": "364980",
+    "explain": "한국 2차전지 산업을 대표하는 10개 기업에 투자합니다.",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "KRX 2차전지 K-뉴딜 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7364980003",
+    "fee": "연 0.40%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 코스닥150 바이오테크",
+    "ticker": "261070",
+    "explain": "고령화시대, 커져가는 건강에 대한 관심. 코스닥 150 구성종목 중 생명기술에 속하는 종목에 분산투자합니다.",
+    "tags": [
+      "주식",
+      "섹터"
+    ],
+    "index": "코스닥 150 헬스케어 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7261070007",
+    "fee": "연 0.40%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 글로벌자율주행&전기차 SOLACTIVE",
+    "ticker": "394660",
+    "explain": "자동차 산업의 새로운 패러다임에 투자하는 글로벌 테마형 ETF",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "Solactive Autonomous & Electric Vehicles 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7394660005",
+    "fee": "0.49%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER KRX BBIG K-뉴딜 ETF",
+    "ticker": "364960",
+    "explain": "글로벌 시장을 선도하는 한국의 주도산업, BBIG! BBIG 대표 기업에 투자합니다.",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "KRX BBIG K-뉴딜 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7364960005",
+    "fee": "연 0.40%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 레버리지",
+    "ticker": "123320",
+    "explain": "매일매일 코스피200 지수의 일별수익률의 2배수 수익률을 추구합니다.",
+    "tags": [
+      "주식",
+      "대표지수"
+    ],
+    "index": "KOSPI 200",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7123320004",
+    "fee": "연 0.022%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 200 선물레버리지",
+    "ticker": "267770",
+    "explain": "코스피200선물지수 일간수익률의 양의 2배수 수익률을 추구합니다.",
+    "tags": [
+      "주식",
+      "대표지수"
+    ],
+    "index": "F-KOSPI200(코스피 200선물지수)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7267770006",
+    "fee": "연 0.022%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER KRX 게임 K-뉴딜 ETF",
+    "ticker": "364990",
+    "explain": "한국 게임 산업을 대표하는 10개 기업에 투자합니다.",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "KRX 게임 K-뉴딜 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7364990002",
+    "fee": "연 0.40%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 글로벌메타버스액티브",
+    "ticker": "412770",
+    "explain": "미래에셋의 액티브 운용 역량을 결집하여 메타버스 시대를 개척하는 글로벌 핵심 기업에 집중 투자",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "Indxx Global Metaverse 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7412770000",
+    "fee": "연 0.79%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 차이나CSI300 레버리지(합성)",
+    "ticker": "204480",
+    "explain": "중국본토 A주로 구성된 CSI300지수 일간수익률의 양의 2배수 수익률을 추구합니다.",
+    "tags": [
+      "주식",
+      "대표지수"
+    ],
+    "index": "CSI300 (원화환산)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7204480008",
+    "fee": "연 0.58%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 미국필라델피아반도체나스닥",
+    "ticker": "381180",
+    "explain": "글로벌 반도체 밸류체인 전반에 투자합니다.",
+    "tags": [
+      "주식",
+      "섹터"
+    ],
+    "index": "PHLX Semiconductor Sector 지수(원화환산)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7381180009",
+    "fee": "연 0.49%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 차이나전기차 SOLACTIVE",
+    "ticker": "371460",
+    "explain": "빠르게 확장하고 있는 중국 전기차 시장, 중국의 전기차 밸류체인에 투자합니다.",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "Solactive China Electric Vehicle and Battery 지수 (원화환산)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7371460007",
+    "fee": "연 0.49%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 차이나반도체FACTSET",
+    "ticker": "396520",
+    "explain": "거대한 중국 반도체 내수 시장과 정부 반도체 육성 정책의 수혜가 예상되는 중국 반도체 산업 투자",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "FactSet China Semiconductor 지수(Net Total Return) (환헤지를 실시하지 않으므로 실제 운용성과는 기초지수 성과에 원-위안 환율변동률을 반영)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7396520009",
+    "fee": "연 0.49%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 차이나바이오테크 SOLACTIVE",
+    "ticker": "371470",
+    "explain": "새롭게 성장하는 신약개발의 메카 중국! 중국 바이오 산업에 투자하는 ETF입니다.",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "Solactive China Biotech 지수 (원화환산)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7371470006",
+    "fee": "연 0.49%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 200 IT레버리지",
+    "ticker": "243880",
+    "explain": "코스피200정보지수 일간수익률의 양의 2배수 수익률을 추구합니다.",
+    "tags": [
+      "주식",
+      "섹터"
+    ],
+    "index": "KOSPI 200 정보기술",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7243880002",
+    "fee": "연 0.69%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 유로스탁스50 레버리지(합성H)",
+    "ticker": "A225050",
+    "explain": "유로존 12개국을 대표하는 블루칩 50개 종목의 양의 2배수 수익률을 추구합니다",
+    "tags": [
+      "주식",
+      "대표지수"
+    ],
+    "index": "EURO STOXX 50 (PR)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7225050004",
+    "fee": "연 0.58%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 이머징마켓MSCI 레버리지(합성H)",
+    "ticker": "A225060",
+    "explain": "한국 포함 중국, 인도 등 이머징마켓 지수의 일간수익률의 2배 수익률을 추종합니다",
+    "tags": [
+      "주식",
+      "대표지수"
+    ],
+    "index": "MSCI Emerging Markets (PR)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7225060003",
+    "fee": "0.58%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 차이나항셍테크",
+    "ticker": "371160",
+    "explain": "중국 혁신 테마 기업에 최저 보수로 투자! (연 0.09%)",
+    "tags": [
+      "주식",
+      "대표지수"
+    ],
+    "index": "Hang Seng TECH Index (원화환산)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7371160003",
+    "fee": "연 0.09%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 200 에너지화학레버리지",
+    "ticker": "243890",
+    "explain": "코스피200에너지화학지수 일간수익률의 양의 2배수로 수익률을 추구합니다.",
+    "tags": [
+      "주식",
+      "섹터"
+    ],
+    "index": "KOSPI 200 에너지화학",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7243890001",
+    "fee": "연 0.69%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 차이나과창판STAR50(합성)",
+    "ticker": "414780",
+    "explain": "자본시장 개혁의 중심에서 중국 정부가 적극 육성하는 혁신기술 산업에 투자",
+    "tags": [
+      "주식",
+      "대표지수"
+    ],
+    "index": "SSE Science and Technology Innovation Board 50 지수 (원화환산)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7414780007",
+    "fee": "연 0.09%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER KRX BBIG K-뉴딜 레버리지",
+    "ticker": "412560",
+    "explain": "한국 경제 패러다임 변화를 선도하는 대표 산업 BBIG에 2배로 투자",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "KRX BBIG K-뉴딜 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7412560005",
+    "fee": "연 0.59%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER KRX 2차전지 K-뉴딜 레버리지",
+    "ticker": "412570",
+    "explain": "국내 2차전지 밸류체인에 2배로 투자",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "KRX 2차전지 K-뉴딜 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7412570004",
+    "fee": "연 0.59%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 원유선물인버스(H)",
+    "ticker": "217770",
+    "explain": "S&P가 발표하는 원유선물지수 일간 변동률의 음의 1배수로 연동되도록 운용합니다.",
+    "tags": [
+      "원자재"
+    ],
+    "index": "S&P GSCI Crude Oil Index Excess Return",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7217770007",
+    "fee": "연 0.69%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER KEDI혁신기업ESG30",
+    "ticker": "417630",
+    "explain": "대한민국 혁신 기업의 ‘성장성’에 ESG경영의 ‘가치’를 입히다!",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "KEDI 혁신기업ESG30 지수",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7417630001",
+    "fee": "연 0.50%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 글로벌사이버보안 INDXX",
+    "ticker": "418670",
+    "explain": "미래를 지키는 사이버 보안 투자!",
+    "tags": [
+      "주식",
+      "테마"
+    ],
+    "index": "Indxx Cybersecurity 지수(원화환산)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7418670006",
+    "fee": "연 0.49%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "미래에셋자산운용",
+    "name": "TIGER 미국나스닥100레버리지(합성)",
+    "ticker": "418660",
+    "explain": "미국의 대표 성장 기업을 레버리지로 투자하다!",
+    "tags": [
+      "주식",
+      "대표지수"
+    ],
+    "index": "나스닥100지수 (원화환산)",
+    "link": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7418660007",
+    "fee": "연 0.25%",
+    "distribution": "미지급"
+  }
+]

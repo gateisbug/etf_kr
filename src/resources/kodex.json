@@ -1,6 +1,6 @@
 [
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX WTI원유선물(H)",
     "ticker": "261220",
     "explain": "S&P GSCI Crude Oil Index Excess Return의 수익률을 추적하는 ETF입니다.",
@@ -13,7 +13,7 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 미국S&P에너지(합성)",
     "ticker": "218420",
     "explain": "전세계 에너지 산업을 이끄는 미국의 에너지 기업들 KODEX로 미국 주요 에너지 기업에 쉽고 빠르게 투자하십시오.",
@@ -27,7 +27,7 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 3대농산물선물(H)",
     "ticker": "271060",
     "explain": "소액으로 대표적인 농산물(옥수수, 콩, 밀) 선물에 분산투자할 수 있는 방법!",
@@ -40,7 +40,7 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 200선물인버스2X",
     "ticker": "252670",
     "explain": "F-KOSPI200(KOSPI200 선물지수)의 일별수익률을 음(陰)의 2배수로 추적하는 ETF입니다.",
@@ -53,7 +53,7 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 콩선물(H)",
     "ticker": "138920",
     "explain": "기상이변, 생산량 감소, 신흥국 수요증가 콩의 투자매력이 더욱 높아집니다.\n",
@@ -66,7 +66,7 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 보험",
     "ticker": "140700",
     "explain": "경기회복에 따른 금리인상, 제도개선 등에 따라 실적 개선이 기대되는 국내 대표 보험주에 투자합니다.",
@@ -80,7 +80,7 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX S&P글로벌인프라(합성)",
     "ticker": "269420",
     "explain": "글로벌 인프라 종목에 투자합니다. 전 세계 에너지, 운송, 유틸리티 섹터에 분산투자하세요.",
@@ -94,7 +94,33 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
+    "name": "KODEX 미국달러선물 레버리지",
+    "ticker": "261250",
+    "explain": "달러화 투자도 이제 소액으로 편리하게! 한국거래소 미국달러선물지수의 수익률을 양(陽)의 2배로 추적하는 ETF입니다.",
+    "tags": [
+      "레버리지/인버스"
+    ],
+    "index": "F-USDKRW",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETF74",
+    "fee": "연 0.450%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "삼성자산운용",
+    "name": "KODEX 다우존스미국리츠(H)",
+    "ticker": "352560",
+    "explain": "전 세계 리츠(REITs) 시장에서 가장 큰 미국 리츠 시장! 각 섹터별로 골고루 분산되어 선진화된 미국 리츠 시장에 투자하세요.",
+    "tags": [
+      "부동산"
+    ],
+    "index": "DowJones US Real Estate Index",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETFC9",
+    "fee": "연 0.090%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "삼성자산운용",
     "name": "KODEX 미국S&P500TR",
     "ticker": "379800",
     "explain": "미국 시장을 대표하는 대형주 500개 종목에 투자하세요. 연금투자도 가능하며, 배당금을 재투자하는 토탈리턴 ETF입니다.",
@@ -108,60 +134,7 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
-    "name": "KODEX 미국달러선물 레버리지",
-    "ticker": "261250",
-    "explain": "달러화 투자도 이제 소액으로 편리하게! 한국거래소 미국달러선물지수의 수익률을 양(陽)의 2배로 추적하는 ETF입니다.",
-    "tags": [
-      "레버리지/인버스"
-    ],
-    "index": "F-USDKRW",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETF74",
-    "fee": "연 0.450%",
-    "distribution": "미지급"
-  },
-  {
-    "operator": "삼성투자증권",
-    "name": "KODEX 다우존스미국리츠(H)",
-    "ticker": "352560",
-    "explain": "전 세계 리츠(REITs) 시장에서 가장 큰 미국 리츠 시장! 각 섹터별로 골고루 분산되어 선진화된 미국 리츠 시장에 투자하세요.",
-    "tags": [
-      "부동산"
-    ],
-    "index": "DowJones US Real Estate Index",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETFC9",
-    "fee": "연 0.090%",
-    "distribution": "미지급"
-  },
-  {
-    "operator": "삼성투자증권",
-    "name": "KODEX 구리선물(H)",
-    "ticker": "138910",
-    "explain": "늘어나는 수요, 줄어드는 생산량! 붉은금, 구리의 투자매력이 더욱 높아집니다.\n",
-    "tags": [
-      "원자재 및 통화"
-    ],
-    "index": "S&P GSCI Copper(TR)",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETF28",
-    "fee": "연 0.680%",
-    "distribution": "미지급"
-  },
-  {
-    "operator": "삼성투자증권",
-    "name": "KODEX 은행",
-    "ticker": "091170",
-    "explain": "한국경제의 든든한 버팀목 은행! 국내 은행을 대표하는 종목으로 구성된 KRX 은행(Banks) 지수를 추적하는\nETF입니다.",
-    "tags": [
-      "국내주식",
-      "업종"
-    ],
-    "index": "KRX 은행",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETF08",
-    "fee": "연 0.300%",
-    "distribution": "지급"
-  },
-  {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 인버스",
     "ticker": "114800",
     "explain": "시장이 하락하면 수익이 나는! 기초지수(F-KOSPI200)의 일별수익률을 역방향으로 추적하는 ETF입니다.",
@@ -174,7 +147,7 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 선진국MSCI World",
     "ticker": "251350",
     "explain": "선진국 시장에 분산투자하십시오! 23개 선진국의 중·대형주 약 1,600개 종목에 투자합니다.",
@@ -188,7 +161,47 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
+    "name": "KODEX 은행",
+    "ticker": "091170",
+    "explain": "한국경제의 든든한 버팀목 은행! 국내 은행을 대표하는 종목으로 구성된 KRX 은행(Banks) 지수를 추적하는\nETF입니다.",
+    "tags": [
+      "국내주식",
+      "업종"
+    ],
+    "index": "KRX 은행",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETF08",
+    "fee": "연 0.300%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "삼성자산운용",
+    "name": "KODEX 구리선물(H)",
+    "ticker": "138910",
+    "explain": "늘어나는 수요, 줄어드는 생산량! 붉은금, 구리의 투자매력이 더욱 높아집니다.\n",
+    "tags": [
+      "원자재 및 통화"
+    ],
+    "index": "S&P GSCI Copper(TR)",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETF28",
+    "fee": "연 0.680%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "삼성자산운용",
+    "name": "KODEX 골드선물(H)",
+    "ticker": "132030",
+    "explain": "금(金)에 투자하는 가장 손쉬운 방법!! 국내 대표 ETF, KODEX로 빠르고 손쉽게 금(金)에 투자하십시오!",
+    "tags": [
+      "원자재 및 통화"
+    ],
+    "index": "S&P GSCI Gold(TR)",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETF24",
+    "fee": "연 0.680%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "삼성자산운용",
     "name": "KODEX 고배당",
     "ticker": "279530",
     "explain": "KOSPI 지수 구성 종목 중 배당수익률이 높고, 변동성은 낮은 종목에 투자합니다.",
@@ -202,20 +215,7 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
-    "name": "KODEX 골드선물(H)",
-    "ticker": "132030",
-    "explain": "금(金)에 투자하는 가장 손쉬운 방법!! 국내 대표 ETF, KODEX로 빠르고 손쉽게 금(金)에 투자하십시오!",
-    "tags": [
-      "원자재 및 통화"
-    ],
-    "index": "S&P GSCI Gold(TR)",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETF24",
-    "fee": "연 0.680%",
-    "distribution": "미지급"
-  },
-  {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 미국나스닥100TR",
     "ticker": "379810",
     "explain": "미국 나스닥 기업 중 시가총액이 크고 거래량이 많은 100개 우량종목에 투자하세요. 연금투자도 가능하며, 배당금이 재투자되는 토탈리턴 ETF입니다.",
@@ -229,20 +229,20 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
-    "name": "KODEX 미국달러선물",
-    "ticker": "261240",
-    "explain": "달러화 투자도 이제 소액으로 편리하게! 한국거래소 미국달러선물지수의 수익률을 양(陽)의 1배로 추적하는 ETF입니다.",
+    "operator": "삼성자산운용",
+    "name": "KODEX 미국채울트라30년선물 인버스(H)",
+    "ticker": "304670",
+    "explain": "미국 장기 금리 상승에 대비하세요. S&P Ultra T-Bond Futures Excess Return Index를 -1배로 추적합니다.",
     "tags": [
-      "원자재 및 통화"
+      "레버리지/인버스"
     ],
-    "index": "F-USDKRW",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETF73",
-    "fee": "연 0.250%",
+    "index": "S&P Ultra T-Bond Futures ER",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETFAB",
+    "fee": "연 0.300%",
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 국채선물10년 인버스",
     "ticker": "176950",
     "explain": "10년국채선물지수의 일별수익률을 -1배 추적하는 ETF입니다. 채권투자도 시장에 따라 선택하여 투자하세요!",
@@ -255,7 +255,20 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
+    "name": "KODEX 미국달러선물",
+    "ticker": "261240",
+    "explain": "달러화 투자도 이제 소액으로 편리하게! 한국거래소 미국달러선물지수의 수익률을 양(陽)의 1배로 추적하는 ETF입니다.",
+    "tags": [
+      "원자재 및 통화"
+    ],
+    "index": "F-USDKRW",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETF73",
+    "fee": "연 0.250%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "삼성자산운용",
     "name": "KODEX 미국S&P산업재(합성)",
     "ticker": "200030",
     "explain": "미국 경제 재개에 따른 수혜가 기대되는 산업재. S&P500 종목 중 산업재에 해당하는 우량 기업에 쉽고 빠르게 투자하세요.",
@@ -269,61 +282,7 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
-    "name": "KODEX 미국S&P고배당커버드콜(합성 H)",
-    "ticker": "276970",
-    "explain": "미국 S&P500 구성종목 중 지난 25년간 꾸준히 배당이 증가한 기업에 투자합니다.",
-    "tags": [
-      "해외주식",
-      "시장지수"
-    ],
-    "index": "S&P500 Dividend Aristocrats Covered Call",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETF90",
-    "fee": "연 0.300%",
-    "distribution": "지급"
-  },
-  {
-    "operator": "삼성투자증권",
-    "name": "KODEX 미국S&P500선물(H)",
-    "ticker": "219480",
-    "explain": "전세계 가장 큰 주식시장인 미국. 미국에 상장된 500개 글로벌 대표기업 관련 상품에 투자합니다.",
-    "tags": [
-      "해외주식",
-      "시장지수"
-    ],
-    "index": "S&P 500 Futures(TR)",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETF50",
-    "fee": "연 0.250%",
-    "distribution": "미지급"
-  },
-  {
-    "operator": "삼성투자증권",
-    "name": "KODEX 미국채울트라30년선물 인버스(H)",
-    "ticker": "304670",
-    "explain": "미국 장기 금리 상승에 대비하세요. S&P Ultra T-Bond Futures Excess Return Index를 -1배로 추적합니다.",
-    "tags": [
-      "레버리지/인버스"
-    ],
-    "index": "S&P Ultra T-Bond Futures ER",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETFAB",
-    "fee": "연 0.300%",
-    "distribution": "미지급"
-  },
-  {
-    "operator": "삼성투자증권",
-    "name": "KODEX TRF7030",
-    "ticker": "329670",
-    "explain": "리스크, 피하지 말고 고르자! 적극형 투자성향을 가진 투자자에게 적합한 자산배분 ETF로,\n글로벌 선진국 주식 : 국내채권 = 7 : 3 비중으로 투자합니다.",
-    "tags": [
-      "혼합자산"
-    ],
-    "index": "FnGuide TRF 7030",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETFC1",
-    "fee": "연 0.100%",
-    "distribution": "미지급"
-  },
-  {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 코스닥150롱 코스피200숏선물",
     "ticker": "360150",
     "explain": "ETF를 활용해 롱쇼트 전략으로 투자하세요. 코스닥150지수는 매수하고, 코스피200지수는 매도하여 지수간 갭에 투자합니다.",
@@ -337,7 +296,48 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
+    "name": "KODEX TRF7030",
+    "ticker": "329670",
+    "explain": "리스크, 피하지 말고 고르자! 적극형 투자성향을 가진 투자자에게 적합한 자산배분 ETF로,\n글로벌 선진국 주식 : 국내채권 = 7 : 3 비중으로 투자합니다.",
+    "tags": [
+      "혼합자산"
+    ],
+    "index": "FnGuide TRF 7030",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETFC1",
+    "fee": "연 0.100%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "삼성자산운용",
+    "name": "KODEX 미국S&P500선물(H)",
+    "ticker": "219480",
+    "explain": "전세계 가장 큰 주식시장인 미국. 미국에 상장된 500개 글로벌 대표기업 관련 상품에 투자합니다.",
+    "tags": [
+      "해외주식",
+      "시장지수"
+    ],
+    "index": "S&P 500 Futures(TR)",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETF50",
+    "fee": "연 0.250%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "삼성자산운용",
+    "name": "KODEX 미국S&P고배당커버드콜(합성 H)",
+    "ticker": "276970",
+    "explain": "미국 S&P500 구성종목 중 지난 25년간 꾸준히 배당이 증가한 기업에 투자합니다.",
+    "tags": [
+      "해외주식",
+      "시장지수"
+    ],
+    "index": "S&P500 Dividend Aristocrats Covered Call",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETF90",
+    "fee": "연 0.300%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "삼성자산운용",
     "name": "KODEX 기계장비",
     "ticker": "102960",
     "explain": "세계경제의 재도약은 기계장비주와 함께! 국내 기계장비주 핵심 종목으로 구성된 KRX 기계장비(Machinary & Equipment) 지수를 추적합니다.",
@@ -351,20 +351,7 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
-    "name": "KODEX TRF5050",
-    "ticker": "329660",
-    "explain": "리스크, 피하지 말고 고르자! 중립형 투자성향을 가진 투자자에게 적합한 자산배분 ETF로,\n글로벌 선진국 주식 : 국내채권 = 5 : 5 비중으로 투자합니다.",
-    "tags": [
-      "혼합자산"
-    ],
-    "index": "FnGuide TRF 5050",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETFC2",
-    "fee": "연 0.170%",
-    "distribution": "미지급"
-  },
-  {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 운송",
     "ticker": "140710",
     "explain": "세계 경기회복과 상품수요 확대에 따른 수송량 증가! 국내 대표 운송산업주에 투자합니다.",
@@ -378,7 +365,20 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
+    "name": "KODEX 코스닥150선물 인버스",
+    "ticker": "251340",
+    "explain": "하락장에서 수익이 나는 ETF! 기초지수인 코스닥150 지수의 일별수익률을 역(-1배)으로 추적합니다.",
+    "tags": [
+      "레버리지/인버스"
+    ],
+    "index": "코스닥150선물지수",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETF67",
+    "fee": "연 0.640%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "삼성자산운용",
     "name": "KODEX 국채선물3년 인버스",
     "ticker": "292770",
     "explain": "이제 금리 상승에 투자하세요. 국채선물지수의 일별수익률을 -1배로 추적하는 ETF입니다.\n금리인상 리스크를 헤지(Hedge)하세요.",
@@ -391,7 +391,20 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
+    "name": "KODEX TRF5050",
+    "ticker": "329660",
+    "explain": "리스크, 피하지 말고 고르자! 중립형 투자성향을 가진 투자자에게 적합한 자산배분 ETF로,\n글로벌 선진국 주식 : 국내채권 = 5 : 5 비중으로 투자합니다.",
+    "tags": [
+      "혼합자산"
+    ],
+    "index": "FnGuide TRF 5050",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETFC2",
+    "fee": "연 0.170%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "삼성자산운용",
     "name": "KODEX 2차전지산업",
     "ticker": "305720",
     "explain": "지속 성장하는 2차전지 시장! 2차전지의 원재료, 장비, 부품, 제조 등과 관련한 기업에 분산투자합니다.",
@@ -405,34 +418,7 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
-    "name": "KODEX 철강",
-    "ticker": "117680",
-    "explain": "한국경제의 과거ㆍ현재ㆍ미래를 책임질 기초산업! 국내 대표 철강산업주에 투자합니다.",
-    "tags": [
-      "국내주식",
-      "업종"
-    ],
-    "index": "KRX 철강",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETF23",
-    "fee": "연 0.450%",
-    "distribution": "지급"
-  },
-  {
-    "operator": "삼성투자증권",
-    "name": "KODEX 코스닥150선물 인버스",
-    "ticker": "251340",
-    "explain": "하락장에서 수익이 나는 ETF! 기초지수인 코스닥150 지수의 일별수익률을 역(-1배)으로 추적합니다.",
-    "tags": [
-      "레버리지/인버스"
-    ],
-    "index": "코스닥150선물지수",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETF67",
-    "fee": "연 0.640%",
-    "distribution": "미지급"
-  },
-  {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 모멘텀PLUS",
     "ticker": "244620",
     "explain": "FnGuide 모멘텀 Plus 지수를 기초지수로 하여 1좌당 순자산가치의 변동률을 기초지수의 변동률과 유사하도록 투자신탁재산을 운용하는 ETF입니다.",
@@ -446,7 +432,60 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
+    "name": "KODEX 철강",
+    "ticker": "117680",
+    "explain": "한국경제의 과거ㆍ현재ㆍ미래를 책임질 기초산업! 국내 대표 철강산업주에 투자합니다.",
+    "tags": [
+      "국내주식",
+      "업종"
+    ],
+    "index": "KRX 철강",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETF23",
+    "fee": "연 0.450%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "삼성자산운용",
+    "name": "KODEX 단기변동금리부채권 액티브",
+    "ticker": "273140",
+    "explain": "국내 은행(AAA등급, 만기 1년이하)에서 발행한 CD금리 연계 FRN(Floating Rate Note)에 투자하는 액티브 채권형 ETF로, 비교지수인 KAP단기변동금리부은행채권지수(AAA, 총수익) 대비 초과성과를 추구합니다.",
+    "tags": [
+      "채권"
+    ],
+    "index": "KAP 단기 변동금리부 은행채권지수",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETF89",
+    "fee": "연 0.150%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "삼성자산운용",
+    "name": "KODEX 단기채권PLUS",
+    "ticker": "214980",
+    "explain": "수익률까지 생각하는 단기투자의 혁신! MMF나 CMA처럼 자유로운 환금성에 안정적인 수익률까지 추구하여\n단기투자의 새로운 지평을 열어갑니다.",
+    "tags": [
+      "채권"
+    ],
+    "index": "KRW Cash PLUS(총수익)",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETF48",
+    "fee": "연 0.150%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "삼성자산운용",
+    "name": "KODEX 미국채10년선물",
+    "ticker": "308620",
+    "explain": "주식에 투자하고 계신가요? 주식시장과 낮은 상관관계를 가진 글로벌 안정자산의 대명사,\n미국 국채에 투자를 병행해 시장 변동성 확대에 대비하세요.",
+    "tags": [
+      "채권"
+    ],
+    "index": "S&P 10-year US Treasury Note Futures KRW",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETFB4",
+    "fee": "연 0.090%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "삼성자산운용",
     "name": "KODEX 미국나스닥100선물(H)",
     "ticker": "304940",
     "explain": "미국 나스닥 시장에 상장된 기업 중 거래량과 시가총액을 기준으로 한 100개 우량종목에 투자합니다.",
@@ -460,59 +499,7 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
-    "name": "KODEX 미국채10년선물",
-    "ticker": "308620",
-    "explain": "주식에 투자하고 계신가요? 주식시장과 낮은 상관관계를 가진 글로벌 안정자산의 대명사,\n미국 국채에 투자를 병행해 시장 변동성 확대에 대비하세요.",
-    "tags": [
-      "채권"
-    ],
-    "index": "S&P 10-year US Treasury Note Futures KRW",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETFB4",
-    "fee": "연 0.090%",
-    "distribution": "미지급"
-  },
-  {
-    "operator": "삼성투자증권",
-    "name": "KODEX 단기변동금리부채권 액티브",
-    "ticker": "273140",
-    "explain": "국내 은행(AAA등급, 만기 1년이하)에서 발행한 CD금리 연계 FRN(Floating Rate Note)에 투자하는 액티브 채권형 ETF로, 비교지수인 KAP단기변동금리부은행채권지수(AAA, 총수익) 대비 초과성과를 추구합니다.",
-    "tags": [
-      "채권"
-    ],
-    "index": "KAP 단기 변동금리부 은행채권지수",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETF89",
-    "fee": "연 0.150%",
-    "distribution": "미지급"
-  },
-  {
-    "operator": "삼성투자증권",
-    "name": "KODEX 은선물(H)",
-    "ticker": "144600",
-    "explain": "가격적 매력과 더불어 귀금속과 산업재로서의 수요가 증가하고 있는 은(Silver)! KODEX ETF가 매력적인 은선물 투자를 제안합니다.",
-    "tags": [
-      "원자재 및 통화"
-    ],
-    "index": "S&P GSCI Silver(TR)",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETF32",
-    "fee": "연 0.680%",
-    "distribution": "미지급"
-  },
-  {
-    "operator": "삼성투자증권",
-    "name": "KODEX 단기채권PLUS",
-    "ticker": "214980",
-    "explain": "수익률까지 생각하는 단기투자의 혁신! MMF나 CMA처럼 자유로운 환금성에 안정적인 수익률까지 추구하여\n단기투자의 새로운 지평을 열어갑니다.",
-    "tags": [
-      "채권"
-    ],
-    "index": "KRW Cash PLUS(총수익)",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETF48",
-    "fee": "연 0.150%",
-    "distribution": "미지급"
-  },
-  {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 단기채권",
     "ticker": "153130",
     "explain": "잠자는 주식예탁금, 깨울 때가 됐습니다. KODEX 단기채권 ETF는 대표적 안정 자산인 정부 및 한국은행이 발행한 1년 미만 국고채권과 통안채에 투자하여 안정적인 수익률을 추구합니다.",
@@ -525,7 +512,33 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
+    "name": "KODEX TSE일본리츠(H)",
+    "ticker": "352540",
+    "explain": "일본 부동산 시장, ETF로 투자하세요. 도쿄거래소에 상장된 모든 리츠가 담긴 TSE REIT 지수를 따라갑니다.",
+    "tags": [
+      "부동산"
+    ],
+    "index": "Tokyo Stock Exchange REIT Inde",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETFD1",
+    "fee": "연 0.300%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "삼성자산운용",
+    "name": "KODEX TRF3070",
+    "ticker": "329650",
+    "explain": "리스크, 피하지 말고 고르자! 안정형 투자성향을 가진 투자자에게 적합한 자산배분 ETF로,\n글로벌 선진국 주식 : 국내채권 = 3 : 7 비중으로 투자합니다.",
+    "tags": [
+      "혼합자산"
+    ],
+    "index": "FnGuide TRF 3070",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETFC3",
+    "fee": "연 0.240%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "삼성자산운용",
     "name": "KODEX 200중소형",
     "ticker": "226980",
     "explain": "KOSPI 200 지수 중 시가총액비중을 기준 101~200위로 분류되는 'KOSPI 200 중소형주 지수'의 수익률을 추적하여 투자신탁재산을 운용하는 ETF입니다.",
@@ -539,20 +552,33 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
-    "name": "KODEX TSE일본리츠(H)",
-    "ticker": "352540",
-    "explain": "일본 부동산 시장, ETF로 투자하세요. 도쿄거래소에 상장된 모든 리츠가 담긴 TSE REIT 지수를 따라갑니다.",
+    "operator": "삼성자산운용",
+    "name": "KODEX 은선물(H)",
+    "ticker": "144600",
+    "explain": "가격적 매력과 더불어 귀금속과 산업재로서의 수요가 증가하고 있는 은(Silver)! KODEX ETF가 매력적인 은선물 투자를 제안합니다.",
     "tags": [
-      "부동산"
+      "원자재 및 통화"
     ],
-    "index": "Tokyo Stock Exchange REIT Inde",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETFD1",
-    "fee": "연 0.300%",
+    "index": "S&P GSCI Silver(TR)",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETF32",
+    "fee": "연 0.680%",
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
+    "name": "KODEX 배당성장채권혼합",
+    "ticker": "237370",
+    "explain": "장기간 안정적 배당을 실시하고 향후 배당규모가 성장할 것으로 예상되는 기업에 투자하는 코스피 배당성장 50지수를 30% 편입하고 3년국채 채권지수(KTB)를 70% 편입한 “배당성장채권혼합\"의 지수수익률을 추적하여 투자신탁재산을 운용하는 ETF입니다.",
+    "tags": [
+      "혼합자산"
+    ],
+    "index": "배당성장채권혼합지수",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETF58",
+    "fee": "연 0.190%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "삼성자산운용",
     "name": "KODEX 배당성장",
     "ticker": "211900",
     "explain": "향후 배당 증가가능성이 높은 포트폴리오에 투자하여 장기적으로 자본이득과 배당수익을 동시에 추구하는 ETF입니다.",
@@ -566,88 +592,7 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
-    "name": "KODEX TRF3070",
-    "ticker": "329650",
-    "explain": "리스크, 피하지 말고 고르자! 안정형 투자성향을 가진 투자자에게 적합한 자산배분 ETF로,\n글로벌 선진국 주식 : 국내채권 = 3 : 7 비중으로 투자합니다.",
-    "tags": [
-      "혼합자산"
-    ],
-    "index": "FnGuide TRF 3070",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETFC3",
-    "fee": "연 0.240%",
-    "distribution": "미지급"
-  },
-  {
-    "operator": "삼성투자증권",
-    "name": "KODEX 배당성장채권혼합",
-    "ticker": "237370",
-    "explain": "장기간 안정적 배당을 실시하고 향후 배당규모가 성장할 것으로 예상되는 기업에 투자하는 코스피 배당성장 50지수를 30% 편입하고 3년국채 채권지수(KTB)를 70% 편입한 “배당성장채권혼합\"의 지수수익률을 추적하여 투자신탁재산을 운용하는 ETF입니다.",
-    "tags": [
-      "혼합자산"
-    ],
-    "index": "배당성장채권혼합지수",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETF58",
-    "fee": "연 0.190%",
-    "distribution": "미지급"
-  },
-  {
-    "operator": "삼성투자증권",
-    "name": "KODEX 차이나심천ChiNext(합성)",
-    "ticker": "256750",
-    "explain": "중국 심천거래소가 산출·발표하는 '심천 ChiNext 지수'를 기초지수로 하여 1좌당 순자산가치의 변동률을 기초지수의 변동률과 유사하도록 투자신탁재산을 운용하는 ETF입니다.",
-    "tags": [
-      "해외주식",
-      "시장지수"
-    ],
-    "index": "ChiNext Index",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETF71",
-    "fee": "연 0.470%",
-    "distribution": "미지급"
-  },
-  {
-    "operator": "삼성투자증권",
-    "name": "KODEX 배당가치",
-    "ticker": "325020",
-    "explain": "대형주를 중심으로, 배당성향이 높으면서도 밸류 및 수익성 지표가 높은 종목에 투자합니다.",
-    "tags": [
-      "국내주식",
-      "팩터"
-    ],
-    "index": "FnGuide SLV 배당주형 지수",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETFB9",
-    "fee": "연 0.300%",
-    "distribution": "지급"
-  },
-  {
-    "operator": "삼성투자증권",
-    "name": "KODEX 200 동일가중",
-    "ticker": "252650",
-    "explain": "'코스피200동일가중지수'를 기초지수로 하여 1좌당 순자산가치의 변동률을 기초지수의 변동률과 유사하도록 운용하는 ETF입니다.",
-    "tags": [
-      "국내주식",
-      "팩터"
-    ],
-    "index": "KOSPI200 동일가중",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETF69",
-    "fee": "연 0.250%",
-    "distribution": "지급"
-  },
-  {
-    "operator": "삼성투자증권",
-    "name": "KODEX 국고채3년",
-    "ticker": "114260",
-    "explain": "대한민국1호 국고채권 ETF! MKF국고채 지수를 추적하여, 안정자산인 3년만기 국고채에 투자하는 ETF입니다.",
-    "tags": [
-      "채권"
-    ],
-    "index": "MKF TB 지수 총수익지수",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETF19",
-    "fee": "연 0.150%",
-    "distribution": "미지급"
-  },
-  {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 일본TOPIX 100",
     "ticker": "101280",
     "explain": "저평가된 저력의 경제대국 일본! 동경증권거래소 시가총액 상위 100개 종목으로 구성된 TOPIX100지수를 추적합니다.",
@@ -661,48 +606,62 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
-    "name": "KODEX 삼성그룹밸류",
-    "ticker": "213610",
-    "explain": "삼성그룹의 핵심 계열사 주식에 효과적으로 투자하는 방법! 삼성그룹 핵심 계열사의 내재 가치를 반영하여 비중을 조절하는 방식으로 투자합니다.",
-    "tags": [
-      "국내주식",
-      "전략/테마"
-    ],
-    "index": "WISE삼성그룹밸류인덱스",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETF47",
-    "fee": "연 0.150%",
-    "distribution": "지급"
-  },
-  {
-    "operator": "삼성투자증권",
-    "name": "KODEX 최소변동성",
-    "ticker": "279540",
-    "explain": "주가변동이 안정적인 종목으로 하락장에서의 손실폭을 최소화합니다. 단순 저변동성 종목 투자가 아닌 종목간 상관관계까지 고려하여\n포트폴리오 리스크를 줄입니다.",
+    "operator": "삼성자산운용",
+    "name": "KODEX 배당가치",
+    "ticker": "325020",
+    "explain": "대형주를 중심으로, 배당성향이 높으면서도 밸류 및 수익성 지표가 높은 종목에 투자합니다.",
     "tags": [
       "국내주식",
       "팩터"
     ],
-    "index": "KRX 최소변동성 지수",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETF97",
+    "index": "FnGuide SLV 배당주형 지수",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETFB9",
     "fee": "연 0.300%",
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
-    "name": "KODEX 멀티에셋하이인컴(H)",
-    "ticker": "321410",
-    "explain": "주식, 채권, 대체투자 자산 중 상대적으로 높은 인컴 수익을 창출하는 자산에 분산투자합니다.",
+    "operator": "삼성자산운용",
+    "name": "KODEX 국고채3년",
+    "ticker": "114260",
+    "explain": "대한민국1호 국고채권 ETF! MKF국고채 지수를 추적하여, 안정자산인 3년만기 국고채에 투자하는 ETF입니다.",
     "tags": [
-      "혼합자산"
+      "채권"
     ],
-    "index": "Morningstar Multi-Asset High Incomes 10%",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETFB7",
-    "fee": "연 0.250%",
+    "index": "MKF TB 지수 총수익지수",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETF19",
+    "fee": "연 0.150%",
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
+    "name": "KODEX 차이나심천ChiNext(합성)",
+    "ticker": "256750",
+    "explain": "중국 심천거래소가 산출·발표하는 '심천 ChiNext 지수'를 기초지수로 하여 1좌당 순자산가치의 변동률을 기초지수의 변동률과 유사하도록 투자신탁재산을 운용하는 ETF입니다.",
+    "tags": [
+      "해외주식",
+      "시장지수"
+    ],
+    "index": "ChiNext Index",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETF71",
+    "fee": "연 0.470%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "삼성자산운용",
+    "name": "KODEX 200 동일가중",
+    "ticker": "252650",
+    "explain": "'코스피200동일가중지수'를 기초지수로 하여 1좌당 순자산가치의 변동률을 기초지수의 변동률과 유사하도록 운용하는 ETF입니다.",
+    "tags": [
+      "국내주식",
+      "팩터"
+    ],
+    "index": "KOSPI200 동일가중",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETF69",
+    "fee": "연 0.250%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "삼성자산운용",
     "name": "KODEX 차이나CSI300",
     "ticker": "283580",
     "explain": "중국의 블루칩 CSI300! 중국시장을 대표하는 대형주 300종목에 투자합니다.(환노출)",
@@ -716,7 +675,21 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
+    "name": "KODEX 삼성그룹밸류",
+    "ticker": "213610",
+    "explain": "삼성그룹의 핵심 계열사 주식에 효과적으로 투자하는 방법! 삼성그룹 핵심 계열사의 내재 가치를 반영하여 비중을 조절하는 방식으로 투자합니다.",
+    "tags": [
+      "국내주식",
+      "전략/테마"
+    ],
+    "index": "WISE삼성그룹밸류인덱스",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETF47",
+    "fee": "연 0.150%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "삼성자산운용",
     "name": "KODEX 밸류PLUS",
     "ticker": "244670",
     "explain": "FnGuide 밸류 Plus 지수를 기초지수로 하여 1좌당 순자산가치의 변동률을 기초지수의 변동률과 유사하도록 투자신탁재산을 운용하는 ETF입니다.",
@@ -730,7 +703,47 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
+    "name": "KODEX 멀티에셋하이인컴(H)",
+    "ticker": "321410",
+    "explain": "주식, 채권, 대체투자 자산 중 상대적으로 높은 인컴 수익을 창출하는 자산에 분산투자합니다.",
+    "tags": [
+      "혼합자산"
+    ],
+    "index": "Morningstar Multi-Asset High Incomes 10%",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETFB7",
+    "fee": "연 0.250%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "삼성자산운용",
+    "name": "KODEX 최소변동성",
+    "ticker": "279540",
+    "explain": "주가변동이 안정적인 종목으로 하락장에서의 손실폭을 최소화합니다. 단순 저변동성 종목 투자가 아닌 종목간 상관관계까지 고려하여\n포트폴리오 리스크를 줄입니다.",
+    "tags": [
+      "국내주식",
+      "팩터"
+    ],
+    "index": "KRX 최소변동성 지수",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETF97",
+    "fee": "연 0.300%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "삼성자산운용",
+    "name": "KODEX 종합채권(AA-이상) 액티브",
+    "ticker": "273130",
+    "explain": "한국의 우량채권시장(AA-이상)에 투자하는 최초의 액티브 채권 ETF로, KAP 한국종합채권지수(AA-이상, 총수익) 지수 대비 초과성과를 추구합니다.",
+    "tags": [
+      "채권"
+    ],
+    "index": "KAP 한국종합채권지수 (AA-이상 총수익)",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETF88",
+    "fee": "연 0.070%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "삼성자산운용",
     "name": "KODEX 건설",
     "ticker": "117700",
     "explain": "국내 대형 건설 시장 주도! 우수한 해외 건설 시장 수주 성과! 건설 산업을 이끌고 있는 국내 대형 건설주에 분산투자합니다.",
@@ -744,20 +757,7 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
-    "name": "KODEX 종합채권(AA-이상) 액티브",
-    "ticker": "273130",
-    "explain": "한국의 우량채권시장(AA-이상)에 투자하는 최초의 액티브 채권 ETF로, KAP 한국종합채권지수(AA-이상, 총수익) 지수 대비 초과성과를 추구합니다.",
-    "tags": [
-      "채권"
-    ],
-    "index": "KAP 한국종합채권지수 (AA-이상 총수익)",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETF88",
-    "fee": "연 0.070%",
-    "distribution": "미지급"
-  },
-  {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 200 미국채혼합",
     "ticker": "284430",
     "explain": "KOSPI200 미국채혼합 지수를 추종하여, KOSPI200과 미국국채선물 10년물(환노출)에 약 4:6의 비율로 투자합니다.",
@@ -770,49 +770,7 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
-    "name": "KODEX 200 가치저변동",
-    "ticker": "223190",
-    "explain": "KOSPI 200 종목 중 기업 내재가치가 주목되는 종목만 추린 KOSPI 200 가치저변동성 지수에 투자합니다. KOSPI 200에서 변동성이 높은 종목을 제외하여 안정성을 더욱 높였습니다.",
-    "tags": [
-      "국내주식",
-      "팩터"
-    ],
-    "index": "KOSPI200 가치저변동성 지수",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETF51",
-    "fee": "연 0.300%",
-    "distribution": "지급"
-  },
-  {
-    "operator": "삼성투자증권",
-    "name": "KODEX 반도체",
-    "ticker": "091160",
-    "explain": "세계시장을 지배하는 대한민국 반도체! 국내 반도체산업을 이끄는 핵심 관련주에 투자하는 ETF입니다.",
-    "tags": [
-      "국내주식",
-      "업종"
-    ],
-    "index": "KRX 반도체",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETF07",
-    "fee": "연 0.450%",
-    "distribution": "지급"
-  },
-  {
-    "operator": "삼성투자증권",
-    "name": "KODEX 증권",
-    "ticker": "102970",
-    "explain": "한국경제의 성장을 믿는다면! 국내 증권산업을 대표하는 종목으로 구성된 KRX 증권(Securities) 지수를\n추적하는 ETF입니다.",
-    "tags": [
-      "국내주식",
-      "업종"
-    ],
-    "index": "KRX 증권",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETF15",
-    "fee": "연 0.450%",
-    "distribution": "지급"
-  },
-  {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 차이나A50",
     "ticker": "169950",
     "explain": "세계 3대 지수개발사인 FTSE사가 산출하는 FTSE China A50 지수를 추적합니다. 본 종목의 정식명칭은 KODEX 중국본토 FTSE China A50 증권상장지수자투자신탁 [주식-파생형]이며 KODEX 중국본토 A50은 약명입니다.",
@@ -826,21 +784,49 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
-    "name": "KODEX 한국대만IT프리미어",
-    "ticker": "298770",
-    "explain": "글로벌 반도체 산업에 주목하세요. 한국과 대만거래소에 상장된 대표 IT 종목에 투자합니다.",
+    "operator": "삼성자산운용",
+    "name": "KODEX 200 가치저변동",
+    "ticker": "223190",
+    "explain": "KOSPI 200 종목 중 기업 내재가치가 주목되는 종목만 추린 KOSPI 200 가치저변동성 지수에 투자합니다. KOSPI 200에서 변동성이 높은 종목을 제외하여 안정성을 더욱 높였습니다.",
     "tags": [
-      "해외주식",
-      "업종"
+      "국내주식",
+      "팩터"
     ],
-    "index": "한국 대만 IT 프리미어지수(KRW)",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETFA7",
-    "fee": "연 0.550%",
-    "distribution": "미지급"
+    "index": "KOSPI200 가치저변동성 지수",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETF51",
+    "fee": "연 0.300%",
+    "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
+    "name": "KODEX 반도체",
+    "ticker": "091160",
+    "explain": "세계시장을 지배하는 대한민국 반도체! 국내 반도체산업을 이끄는 핵심 관련주에 투자하는 ETF입니다.",
+    "tags": [
+      "국내주식",
+      "업종"
+    ],
+    "index": "KRX 반도체",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETF07",
+    "fee": "연 0.450%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "삼성자산운용",
+    "name": "KODEX 증권",
+    "ticker": "102970",
+    "explain": "한국경제의 성장을 믿는다면! 국내 증권산업을 대표하는 종목으로 구성된 KRX 증권(Securities) 지수를\n추적하는 ETF입니다.",
+    "tags": [
+      "국내주식",
+      "업종"
+    ],
+    "index": "KRX 증권",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETF15",
+    "fee": "연 0.450%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "삼성자산운용",
     "name": "KODEX 국채선물10년",
     "ticker": "152380",
     "explain": "안정 자산 중에서도 으뜸인 장기채권에 투자하는 효과! 잔존만기 7년-10년 사이의 무위험 장기국고채권 투자와 같은 수익을 추구합니다.",
@@ -853,7 +839,20 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
+    "name": "KODEX 미국달러선물 인버스",
+    "ticker": "261270",
+    "explain": "달러화 투자도 이제 소액으로 편리하게! 한국거래소 미국달러선물지수의 수익률을 -1배로 추적하는 ETF입니다.",
+    "tags": [
+      "레버리지/인버스"
+    ],
+    "index": "F-USDKRW",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETF75",
+    "fee": "연 0.450%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "삼성자산운용",
     "name": "KODEX MSCI밸류",
     "ticker": "275290",
     "explain": "PER(주가수익비율), 기업가치/영업현금흐름, PBR(주가순자산비율) 상위 종목을 선정하는 MSCI KOREA IMI Enhanced Value Capped Index를 추적합니다.",
@@ -867,7 +866,21 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
+    "name": "KODEX 한국대만IT프리미어",
+    "ticker": "298770",
+    "explain": "글로벌 반도체 산업에 주목하세요. 한국과 대만거래소에 상장된 대표 IT 종목에 투자합니다.",
+    "tags": [
+      "해외주식",
+      "업종"
+    ],
+    "index": "한국 대만 IT 프리미어지수(KRW)",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETFA7",
+    "fee": "연 0.550%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "삼성자산운용",
     "name": "KODEX 장기종합채권(AA-이상) 액티브KAP",
     "ticker": "363570",
     "explain": "한국 장기물 채권시장을 대표하는 '액티브' 종합채권 상장지수펀드입니다.",
@@ -880,34 +893,7 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
-    "name": "KODEX 미국달러선물 인버스",
-    "ticker": "261270",
-    "explain": "달러화 투자도 이제 소액으로 편리하게! 한국거래소 미국달러선물지수의 수익률을 -1배로 추적하는 ETF입니다.",
-    "tags": [
-      "레버리지/인버스"
-    ],
-    "index": "F-USDKRW",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETF75",
-    "fee": "연 0.450%",
-    "distribution": "미지급"
-  },
-  {
-    "operator": "삼성투자증권",
-    "name": "KODEX 미국러셀2000(H)",
-    "ticker": "280930",
-    "explain": "미국 소형주에 주목! 미국 주식 시가총액순 1,001~3,000위 종목으로 구성된 러셀2000 지수를 추종하여\n러셀2000 파생상품(선물)에 투자합니다.",
-    "tags": [
-      "해외주식",
-      "시장지수"
-    ],
-    "index": "Russell 2000 Index",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETF95",
-    "fee": "연 0.450%",
-    "distribution": "미지급"
-  },
-  {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 글로벌4차산업로보틱스(합성)",
     "ticker": "276990",
     "explain": "제4차 산업혁명을 움직이는 지렛대, 로봇! 빠르게 성장하는 로봇, 자동화 기술 관련 글로벌 기업에 투자합니다.",
@@ -921,7 +907,7 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 퀄리티PLUS",
     "ticker": "244660",
     "explain": "FnGuide 퀄리티 Plus 지수를 기초지수로 하여 1좌당 순자산가치의 변동률을 기초지수의 변동률과 유사하도록 투자신탁재산을 운용하는 ETF입니다.",
@@ -935,21 +921,7 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
-    "name": "KODEX 경기소비재",
-    "ticker": "266390",
-    "explain": "경기 호황과 함께하는 소비재 산업! 국내 유통, 서비스 산업을 대표하는 KRX 경기소비재 지수를 추적하는 ETF입니다.",
-    "tags": [
-      "국내주식",
-      "업종"
-    ],
-    "index": "KRX 경기소비재 (2017.03.15)",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETF79",
-    "fee": "연 0.450%",
-    "distribution": "지급"
-  },
-  {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 삼성그룹",
     "ticker": "102780",
     "explain": "한국경제의 힘! 삼성그룹! 삼성그룹의 시가총액 1조원 이상의 핵심계열사에 투자하는 대표 테마 ETF입니다.",
@@ -963,7 +935,35 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
+    "name": "KODEX 미국러셀2000(H)",
+    "ticker": "280930",
+    "explain": "미국 소형주에 주목! 미국 주식 시가총액순 1,001~3,000위 종목으로 구성된 러셀2000 지수를 추종하여\n러셀2000 파생상품(선물)에 투자합니다.",
+    "tags": [
+      "해외주식",
+      "시장지수"
+    ],
+    "index": "Russell 2000 Index",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETF95",
+    "fee": "연 0.450%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "삼성자산운용",
+    "name": "KODEX 경기소비재",
+    "ticker": "266390",
+    "explain": "경기 호황과 함께하는 소비재 산업! 국내 유통, 서비스 산업을 대표하는 KRX 경기소비재 지수를 추적하는 ETF입니다.",
+    "tags": [
+      "국내주식",
+      "업종"
+    ],
+    "index": "KRX 경기소비재 (2017.03.15)",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETF79",
+    "fee": "연 0.450%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "삼성자산운용",
     "name": "KODEX 미국채울트라30년선물(H)",
     "ticker": "304660",
     "explain": "소액으로 미국채 30년에 자산배분하세요. S&P Ultra T-Bond Futures Excess Return Index를 추적하는 ETF입니다.",
@@ -976,7 +976,7 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX K-이노베이션 액티브",
     "ticker": "373490",
     "explain": "향후 10년 이상 이어질 혁신성장 기업군에 투자하여 장기적으로 높은 자본 이득을 추구합니다. 내부 리서치 역량을 활용하여 추가 알파를 추구하는 액티브 ETF입니다.",
@@ -990,21 +990,7 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
-    "name": "KODEX 혁신기술테마액티브",
-    "ticker": "364690",
-    "explain": "액티브펀드와 ETF의 속성을 모두 가진 '주식형 액티브 ETF'입니다. 빅데이터를 활용하여 4차산업 혁신기술 특허를 보유한 기업에 투자합니다.",
-    "tags": [
-      "국내주식",
-      "전략/테마"
-    ],
-    "index": "KOSPI 지수",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETFC8",
-    "fee": "연 0.300%",
-    "distribution": "지급"
-  },
-  {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 200롱 코스닥150숏선물",
     "ticker": "360140",
     "explain": "ETF를 활용해 롱쇼트 전략으로 투자하세요. 코스피200지수는 매수하고, 코스닥150지수는 매도하여 지수간 갭에 투자합니다.",
@@ -1018,7 +1004,21 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
+    "name": "KODEX 혁신기술테마액티브",
+    "ticker": "364690",
+    "explain": "액티브펀드와 ETF의 속성을 모두 가진 '주식형 액티브 ETF'입니다. 빅데이터를 활용하여 4차산업 혁신기술 특허를 보유한 기업에 투자합니다.",
+    "tags": [
+      "국내주식",
+      "전략/테마"
+    ],
+    "index": "KOSPI 지수",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETFC8",
+    "fee": "연 0.300%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "삼성자산운용",
     "name": "KODEX IT",
     "ticker": "266370",
     "explain": "대한민국 대표 수출 산업인 IT 산업! 국내 전기전자/IT하드웨어/반도체 산업을 모두 포괄하는 KRX IT 지수를 추적하는 ETF입니다.",
@@ -1032,7 +1032,7 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX Fn멀티팩터",
     "ticker": "337120",
     "explain": "단일 팩터들을 어떻게 조합해 투자할지 막막하셨나요? 모멘텀, 퀄리티, 밸류, 사이즈 팩터를 동시에 고려한 멀티팩터 전략 ETF로 시장 대비 초과 수익을 추구해보세요.",
@@ -1046,7 +1046,20 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
+    "name": "KODEX 골드선물 인버스(H)",
+    "ticker": "280940",
+    "explain": "이제 금값이 내려가도 웃자! 금 선물 가격 변동률을 -1배로 추종하는 인버스 ETF입니다.",
+    "tags": [
+      "레버리지/인버스"
+    ],
+    "index": "S&P Gold Index(ER)",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETF94",
+    "fee": "연 0.450%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "삼성자산운용",
     "name": "KODEX 코스피",
     "ticker": "226490",
     "explain": "대한민국 주식시장(유가증권시장)에 포함된 전 종목으로 구성된 지수 수익률을 추적하여 투자신탁재산을 운용하는 ETF입니다.",
@@ -1060,35 +1073,7 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
-    "name": "KODEX 200ESG",
-    "ticker": "337160",
-    "explain": "착한기업이 성과도 좋다! KOSPI200에서 ESG(환경,사회,지배구조) 성과가 우량한 종목에 투자합니다.",
-    "tags": [
-      "국내주식",
-      "팩터"
-    ],
-    "index": "KOSPI200 ESG 지수",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETFC7",
-    "fee": "연 0.090%",
-    "distribution": "지급"
-  },
-  {
-    "operator": "삼성투자증권",
-    "name": "KODEX 코스피TR",
-    "ticker": "359210",
-    "explain": "이제 코스피 지수에 투자하면서 배당수익의 재투자 효과도 함께 누리세요.",
-    "tags": [
-      "국내주식",
-      "시장지수"
-    ],
-    "index": "KOSPI TR",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETFD2",
-    "fee": "연 0.070%",
-    "distribution": "미지급"
-  },
-  {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 코스닥 150",
     "ticker": "229200",
     "explain": "국내 코스닥 시장에 상장되어 있는 종목 중 시가총액, 유동성, 업종분포 등을 고려하여 선정한 150종목으로 구성된 \"코스닥 150 지수\"의 지수수익률을 추적하여 투자신탁재산을 운용하는 ETF입니다.",
@@ -1102,20 +1087,35 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
-    "name": "KODEX 골드선물 인버스(H)",
-    "ticker": "280940",
-    "explain": "이제 금값이 내려가도 웃자! 금 선물 가격 변동률을 -1배로 추종하는 인버스 ETF입니다.",
+    "operator": "삼성자산운용",
+    "name": "KODEX 코스피TR",
+    "ticker": "359210",
+    "explain": "이제 코스피 지수에 투자하면서 배당수익의 재투자 효과도 함께 누리세요.",
     "tags": [
-      "레버리지/인버스"
+      "국내주식",
+      "시장지수"
     ],
-    "index": "S&P Gold Index(ER)",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETF94",
-    "fee": "연 0.450%",
+    "index": "KOSPI TR",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETFD2",
+    "fee": "연 0.070%",
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
+    "name": "KODEX 200ESG",
+    "ticker": "337160",
+    "explain": "착한기업이 성과도 좋다! KOSPI200에서 ESG(환경,사회,지배구조) 성과가 우량한 종목에 투자합니다.",
+    "tags": [
+      "국내주식",
+      "팩터"
+    ],
+    "index": "KOSPI200 ESG 지수",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETFC7",
+    "fee": "연 0.090%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "삼성자산운용",
     "name": "KODEX 미국FANG플러스(H)",
     "ticker": "314250",
     "explain": "미국의 대표 기술주에 주목합니다. 메타, 아마존, 넷플릭스, 구글 등 최고의 혁신 기업으로 평가받는 약 10개 기업에 집중 투자하세요.",
@@ -1129,7 +1129,7 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 탄소효율그린뉴딜",
     "ticker": "375770",
     "explain": "대한민국의 경제가 친환경·저탄소로 전환합니다. 이제 탄소효율성이 높은 기업에 투자하세요.",
@@ -1143,7 +1143,7 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX Top5Plus TR",
     "ticker": "315930",
     "explain": "코스피와 코스닥 모든 종목 중 시가총액 상위 5개 종목과 시가총액이 크면서 배당수익률이 높은 5개 종목으로 구성된 ETF입니다.",
@@ -1157,21 +1157,7 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
-    "name": "KODEX 200exTOP",
-    "ticker": "337150",
-    "explain": "특정 초대형주 비중이 상대적으로 높은 한국 시장. 초대형주를 제외한 KOSPI200 종목에 투자하는 KODEX 200exTOP으로 보다 전략적인 ETF 투자를 해보세요.",
-    "tags": [
-      "국내주식",
-      "시장지수"
-    ],
-    "index": "KOSPI200 초대형제외 지수",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETFC6",
-    "fee": "연 0.300%",
-    "distribution": "지급"
-  },
-  {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 코스피대형주",
     "ticker": "337140",
     "explain": "KOSPI지수 구성종목 중 시가총액 상위 100종목에 투자합니다.",
@@ -1185,7 +1171,21 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
+    "name": "KODEX 200exTOP",
+    "ticker": "337150",
+    "explain": "특정 초대형주 비중이 상대적으로 높은 한국 시장. 초대형주를 제외한 KOSPI200 종목에 투자하는 KODEX 200exTOP으로 보다 전략적인 ETF 투자를 해보세요.",
+    "tags": [
+      "국내주식",
+      "시장지수"
+    ],
+    "index": "KOSPI200 초대형제외 지수",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETFC6",
+    "fee": "연 0.300%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "삼성자산운용",
     "name": "KODEX KRX300",
     "ticker": "292190",
     "explain": "코스피와 코스닥 우량주를 동시에! 코스피, 코스닥 종목 중 시가총액, 거래대금을 기준으로 우량기업 300종목을 선별해 투자합니다.",
@@ -1199,7 +1199,21 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
+    "name": "KODEX 200",
+    "ticker": "069500",
+    "explain": "대한민국 국가대표! 주식시장을 대표하는 200개 종목으로 구성된 KOSPI 200 지수를 그대로 추적하는,\n규모와 거래량에서 대한민국 국가대표 ETF입니다.",
+    "tags": [
+      "국내주식",
+      "시장지수"
+    ],
+    "index": "KOSPI200 353.68 (하락0.16)",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETF01",
+    "fee": "연 0.150%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "삼성자산운용",
     "name": "KODEX MSCI EM선물(H)",
     "ticker": "291890",
     "explain": "MSCI가 산출하는 신흥시장 대표지수! 24개 신흥국의 중∙대형주 약 800개 종목에 투자합니다.",
@@ -1213,21 +1227,7 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
-    "name": "KODEX 200",
-    "ticker": "069500",
-    "explain": "대한민국 국가대표! 주식시장을 대표하는 200개 종목으로 구성된 KOSPI 200 지수를 그대로 추적하는,\n규모와 거래량에서 대한민국 국가대표 ETF입니다.",
-    "tags": [
-      "국내주식",
-      "시장지수"
-    ],
-    "index": "KOSPI200 354.16 (하락3.22)",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETF01",
-    "fee": "연 0.150%",
-    "distribution": "지급"
-  },
-  {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 200TR",
     "ticker": "278530",
     "explain": "배당수익의 재투자 효과를 누릴 수 있는 토탈 리턴(TR) 인덱스에 투자하세요.",
@@ -1241,21 +1241,7 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
-    "name": "KODEX 미디어&엔터테인먼트",
-    "ticker": "266360",
-    "explain": "게임, 소프트웨어 등 첨단 콘텐츠 산업에 투자하세요. 국내 게임 콘텐츠/소프트웨어를 대표하는 KRX 미디어&엔터테인먼트 지수를 추적하는 ETF입니다.",
-    "tags": [
-      "국내주식",
-      "업종"
-    ],
-    "index": "KRX 미디어&엔터테인먼트",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETF81",
-    "fee": "연 0.450%",
-    "distribution": "지급"
-  },
-  {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX MSCI KOREA ESG유니버설",
     "ticker": "289040",
     "explain": "지속성장이 가능한 기업을 선별합니다. 환경/사회/지배구조 면에서 긍정적 평가를 받은 국내 대형주에 투자합니다.\n* ESG : Environmental, Social & Governance",
@@ -1269,7 +1255,20 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
+    "name": "KODEX 미국달러선물 인버스2X",
+    "ticker": "261260",
+    "explain": "달러화 투자도 이제 소액으로 편리하게! 한국거래소 미국달러선물지수의 수익률을 -2배로 추적하는 ETF입니다.",
+    "tags": [
+      "레버리지/인버스"
+    ],
+    "index": "F-USDKRW",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETF76",
+    "fee": "연 0.450%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "삼성자산운용",
     "name": "KODEX 코스피100",
     "ticker": "237350",
     "explain": "KOSPI 200지수 중 시가총액비중을 기준으로 상위 100 종목으로 구성된 “코스피 100 지수”의 지수수익률을 추적하여 투자신탁재산을 운용하는 ETF입니다.",
@@ -1283,21 +1282,21 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
-    "name": "KODEX 200IT TR",
-    "ticker": "363580",
-    "explain": "코스피200 구성종목 중 정보기술(IT) 종목에 투자하세요. 배당수익의 재투자 효과도 함께 누리세요.",
+    "operator": "삼성자산운용",
+    "name": "KODEX 미디어&엔터테인먼트",
+    "ticker": "266360",
+    "explain": "게임, 소프트웨어 등 첨단 콘텐츠 산업에 투자하세요. 국내 게임 콘텐츠/소프트웨어를 대표하는 KRX 미디어&엔터테인먼트 지수를 추적하는 ETF입니다.",
     "tags": [
       "국내주식",
       "업종"
     ],
-    "index": "KOSPI 200 정보기술 TR",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETFD5",
-    "fee": "연 0.150%",
-    "distribution": "미지급"
+    "index": "KRX 미디어&엔터테인먼트",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETF81",
+    "fee": "연 0.450%",
+    "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 에너지화학",
     "ticker": "117460",
     "explain": "세계경제회복의 최대수혜주 에너지화학! 석유/석탄에서 태양광/바이오까지 KRX 에너지화학(Energy & Chemicals) 지수를\n추적하는 ETF입니다.",
@@ -1311,48 +1310,7 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
-    "name": "KODEX MSCI KOREA",
-    "ticker": "156080",
-    "explain": "세계 투자시장이 주목하는 MSCI Korea 지수! KODEX MSCI Korea ETF가 한층 수준 높은 투자를 제안합니다.",
-    "tags": [
-      "국내주식",
-      "시장지수"
-    ],
-    "index": "MSCI KOREA",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETF36",
-    "fee": "연 0.150%",
-    "distribution": "지급"
-  },
-  {
-    "operator": "삼성투자증권",
-    "name": "KODEX 미국달러선물 인버스2X",
-    "ticker": "261260",
-    "explain": "달러화 투자도 이제 소액으로 편리하게! 한국거래소 미국달러선물지수의 수익률을 -2배로 추적하는 ETF입니다.",
-    "tags": [
-      "레버리지/인버스"
-    ],
-    "index": "F-USDKRW",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETF76",
-    "fee": "연 0.450%",
-    "distribution": "미지급"
-  },
-  {
-    "operator": "삼성투자증권",
-    "name": "KODEX MSCI KOREA TR",
-    "ticker": "278540",
-    "explain": "배당수익의 재투자 효과를 누릴 수 있는 토탈 리턴(TR) 인덱스에 투자하세요.",
-    "tags": [
-      "국내주식",
-      "시장지수"
-    ],
-    "index": "MSCI Korea TR",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETF93",
-    "fee": "연 0.150%",
-    "distribution": "미지급"
-  },
-  {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 게임산업",
     "ticker": "300950",
     "explain": "게임산업의 성장성에 투자하십시오. 게임 소프트웨어 개발 및 제작과 관련한 종목에 분산투자합니다.",
@@ -1366,7 +1324,49 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
+    "name": "KODEX MSCI KOREA",
+    "ticker": "156080",
+    "explain": "세계 투자시장이 주목하는 MSCI Korea 지수! KODEX MSCI Korea ETF가 한층 수준 높은 투자를 제안합니다.",
+    "tags": [
+      "국내주식",
+      "시장지수"
+    ],
+    "index": "MSCI KOREA",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETF36",
+    "fee": "연 0.150%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "삼성자산운용",
+    "name": "KODEX MSCI KOREA TR",
+    "ticker": "278540",
+    "explain": "배당수익의 재투자 효과를 누릴 수 있는 토탈 리턴(TR) 인덱스에 투자하세요.",
+    "tags": [
+      "국내주식",
+      "시장지수"
+    ],
+    "index": "MSCI Korea TR",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETF93",
+    "fee": "연 0.150%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "삼성자산운용",
+    "name": "KODEX 200IT TR",
+    "ticker": "363580",
+    "explain": "코스피200 구성종목 중 정보기술(IT) 종목에 투자하세요. 배당수익의 재투자 효과도 함께 누리세요.",
+    "tags": [
+      "국내주식",
+      "업종"
+    ],
+    "index": "KOSPI 200 정보기술 TR",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETFD5",
+    "fee": "연 0.150%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "삼성자산운용",
     "name": "KODEX MSCI모멘텀",
     "ticker": "275280",
     "explain": "가격모멘텀 상위 종목을 선정하는 MSCI KOREA IMI Momentum Capped Index를 추적합니다.",
@@ -1380,7 +1380,7 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX MSCI퀄리티",
     "ticker": "275300",
     "explain": "수익성, 이익의 안정성, 부채비율 상위 종목을 선정하는 MSCI KOREA IMI Quality Capped Index를 추적합니다.",
@@ -1394,7 +1394,7 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX Fn성장",
     "ticker": "325010",
     "explain": "대형주를 중심으로 성장주 스타일 종목에 분산투자합니다.",
@@ -1408,21 +1408,7 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
-    "name": "KODEX KTOP 30",
-    "ticker": "229720",
-    "explain": "국내 유가증권시장 및 코스닥 시장에 상장되어 있는 종목 중 한국 경제를 대표하는 30개 종목으로 구성되어 있는 “KTOP 30 지수\"의 지수수익률을 추적하여 투자신탁재산을 운용하는 ETF입니다.",
-    "tags": [
-      "국내주식",
-      "시장지수"
-    ],
-    "index": "KTOP 30 (2015.07.13)",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETF55",
-    "fee": "연 0.250%",
-    "distribution": "지급"
-  },
-  {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 필수소비재",
     "ticker": "266410",
     "explain": "생활 유지를 위해 항상 소비되는 필수품 산업! 국내 음식료품/화학 산업을 대표하는 KRX 필수소비재 지수를 추적하는 ETF입니다.",
@@ -1436,7 +1422,21 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
+    "name": "KODEX KTOP 30",
+    "ticker": "229720",
+    "explain": "국내 유가증권시장 및 코스닥 시장에 상장되어 있는 종목 중 한국 경제를 대표하는 30개 종목으로 구성되어 있는 “KTOP 30 지수\"의 지수수익률을 추적하여 투자신탁재산을 운용하는 ETF입니다.",
+    "tags": [
+      "국내주식",
+      "시장지수"
+    ],
+    "index": "KTOP 30 (2015.07.13)",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETF55",
+    "fee": "연 0.250%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "삼성자산운용",
     "name": "KODEX 자동차",
     "ticker": "091180",
     "explain": "세계로 뻗어가는 대한민국 자동차산업! 국내 자동차 산업을 대표하는 KRX 자동차(Autos) 지수를 추적하는 ETF입니다.",
@@ -1450,21 +1450,7 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
-    "name": "KODEX 미국S&P바이오(합성)",
-    "ticker": "185680",
-    "explain": "세계가 미국의 의약품을 삽니다. KODEX는 미국의 바이오기업을 삽니다.",
-    "tags": [
-      "해외주식",
-      "업종"
-    ],
-    "index": "S&P Biotech SI Index",
-    "link": "https://www.kodex.com/product_view.do?fId=2ETF40",
-    "fee": "연 0.250%",
-    "distribution": "미지급"
-  },
-  {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 차이나H",
     "ticker": "099140",
     "explain": "세계경제의 중심으로 도약하는 중국! 홍콩거래소에 상장된 중국 기업(H주, P-chip, Red-chip)에 분산투자하는 ETF입니다.",
@@ -1478,7 +1464,21 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
+    "name": "KODEX 미국S&P바이오(합성)",
+    "ticker": "185680",
+    "explain": "세계가 미국의 의약품을 삽니다. KODEX는 미국의 바이오기업을 삽니다.",
+    "tags": [
+      "해외주식",
+      "업종"
+    ],
+    "index": "S&P Biotech SI Index",
+    "link": "https://www.kodex.com/product_view.do?fId=2ETF40",
+    "fee": "연 0.250%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "삼성자산운용",
     "name": "KODEX 코스닥150 레버리지",
     "ticker": "233740",
     "explain": "기초지수인 코스닥150 지수의 일별수익률을 2배씩 추적하는 ETF입니다. 코스닥150 지수가 일간 1% 상승시 KODEX 코스닥150 레버리지 ETF는 2% 상승을 추구합니다.",
@@ -1491,7 +1491,7 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX Fn K-뉴딜디지털플러스",
     "ticker": "368680",
     "explain": "이제 BBIG(배터리, 바이오, 인터넷, 게임)로 대표되는 K-뉴딜에 투자하세요.",
@@ -1505,7 +1505,7 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX KRX300 레버리지",
     "ticker": "306950",
     "explain": "코스피와 코스닥 300개 우량종목에 더욱 탄력적으로 투자하십시오! KRX300 지수의 일별수익률을 2배로 따라갑니다.",
@@ -1518,20 +1518,20 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 레버리지",
     "ticker": "122630",
     "explain": "주가보다 2배 더 탄력있게!! 매일매일 KOSPI200 지수의 일별수익률을\n2배씩 추적하는 국내 최초 레버리지 ETF입니다.",
     "tags": [
       "레버리지/인버스"
     ],
-    "index": "KOSPI200 354.37 (하락3.01)",
+    "index": "KOSPI200 353.66 (하락0.18)",
     "link": "https://www.kodex.com/product_view.do?fId=2ETF25",
     "fee": "연 0.640%",
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 헬스케어",
     "ticker": "266420",
     "explain": "고령화, 웰빙 수요의 최대 수혜 산업, 헬스케어! 국내 헬스케어/제약 산업을 대표하는 KRX 헬스케어 지수를 추적하는 ETF입니다.",
@@ -1545,7 +1545,7 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 바이오",
     "ticker": "244580",
     "explain": "바이오와 관계된 사업을 회사의 목적사업으로 하고 있는 종목들로 구성된 FnGuide 바이오 지수를 기초지수로 하여 1좌당 순자산가치의 변동률을 기초지수의 변동률과 유사하도록 투자신탁재산을 운용하는 동일비중 가중 ETF입니다.",
@@ -1559,7 +1559,7 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 차이나항셍테크",
     "ticker": "372330",
     "explain": "'아시아의 나스닥 지수'로 불리는 항셍테크지수! 중국의 대표 빅테크 기업 30개 종목에 집중 투자합니다.",
@@ -1573,7 +1573,7 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX WTI원유선물 인버스(H)",
     "ticker": "271050",
     "explain": "S&P GSCI Crude Oil Index Excess Return 일별수익률의 -1배를 추적하는 ETF입니다.",
@@ -1586,7 +1586,7 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 차이나H레버리지(H)",
     "ticker": "204450",
     "explain": "중국 투자, 2배로 즐기자!! KODEX 레버리지의 명성 그대로!\nHSCEI의 일별수익률의 양의 2배를 추구하는 레버리지 ETF입니다.",
@@ -1599,7 +1599,7 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 미국클린에너지나스닥",
     "ticker": "419420",
     "explain": "전 세계적인 협의를 기반으로 정부 지원 등의 정책 모멘텀이 기대되는 글로벌 클린에너지 시장에 손쉽게 투자하세요.",
@@ -1613,7 +1613,7 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 차이나2차전지MSCI(합성)",
     "ticker": "419430",
     "explain": "높은 성장세가 기대되는 전기차 시장! 강력한 내수 시장까지 갖춘 중국 2차전지산업에 집중 투자합니다.",
@@ -1627,7 +1627,7 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 차이나과창판STAR50(합성)",
     "ticker": "415340",
     "explain": "중국판 나스닥에 투자하세요. 과창판(科創板·커촹반) 종목 중 시가총액이 크고 유동성이 좋은 상위 50개 기업에 투자합니다.",
@@ -1641,7 +1641,7 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 미국메타버스나스닥 액티브",
     "ticker": "411420",
     "explain": "포스트 인터넷 시대를 주도할 미국 대표 메타버스 기업에 투자합니다. 기초지수 대비 초과성과를 추구하는 액티브 ETF입니다.",
@@ -1655,7 +1655,7 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX KRX기후변화솔루션",
     "ticker": "404260",
     "explain": "친환경 시대를 주도할, 탄소배출 관리 능력이 우수한 국내 기업에 투자합니다.",
@@ -1669,7 +1669,7 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 유럽탄소배출권선물ICE(H)",
     "ticker": "400570",
     "explain": "전 세계가 저탄소 사회로의 전환을 꾀하고 있습니다. 탄소배출권 거래의 중심인 유럽의 탄소배출권 선물에 투자하세요.",
@@ -1682,7 +1682,7 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX FnTop10동일가중",
     "ticker": "395170",
     "explain": "국내 주식시장 시가총액 Top10 종목들을 동일가중 방식으로 투자하는 ETF입니다.",
@@ -1696,7 +1696,7 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX Fn시스템반도체",
     "ticker": "395160",
     "explain": "4차 산업혁명의 핵심 요소인 시스템반도체 산업에 투자합니다.",
@@ -1710,7 +1710,7 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 미국나스닥100 레버리지(합성 H)",
     "ticker": "409820",
     "explain": "미국 나스닥100 지수에 2배 더 탄력적으로 투자하세요.",
@@ -1723,7 +1723,7 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX K-메타버스액티브",
     "ticker": "401470",
     "explain": "포스트 인터넷 시대를 주도할 국내 메타버스 기업군에 투자합니다. 지수보다 높은 성과를 추구하는 액티브 ETF입니다.",
@@ -1737,7 +1737,7 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX Fn웹툰&드라마",
     "ticker": "395150",
     "explain": "국내 웹툰 및 드라마 산업 관련 종목에 투자합니다.",
@@ -1751,7 +1751,7 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 미국스마트모빌리티S&P",
     "ticker": "390400",
     "explain": "①자율주행, ②전기차, ③드론, ④차세대 교통시스템 등 미국에 상장된 글로벌 스마트모빌리티 기업에 투자합니다.",
@@ -1765,7 +1765,7 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX K-미래차액티브",
     "ticker": "385520",
     "explain": "자율주행, 전장기술, 친환경기술로 대표되는 스마트 모빌리티 산업에 투자합니다.",
@@ -1779,7 +1779,7 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX K-신재생에너지액티브",
     "ticker": "385510",
     "explain": "태양광, 풍력, 수소, 2차전지 등 신재생·친환경 에너지 산업에 투자합니다.",
@@ -1793,7 +1793,7 @@
     "distribution": "지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 미국나스닥100선물 인버스(H)",
     "ticker": "409810",
     "explain": "하락장에서 수익이 나는 ETF! 기초지수인 나스닥100 지수의 일별수익률을 역(-1배)으로 추적합니다.",
@@ -1806,7 +1806,7 @@
     "distribution": "미지급"
   },
   {
-    "operator": "삼성투자증권",
+    "operator": "삼성자산운용",
     "name": "KODEX 미국반도체MV",
     "ticker": "390390",
     "explain": "반도체 장비, 설계, 생산 등 미국에 상장된 대표적인 글로벌 반도체 기업에 투자합니다.",
