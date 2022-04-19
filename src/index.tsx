@@ -1,12 +1,13 @@
-import { createRoot } from 'react-dom/client';
+import ReactDOM from 'react-dom';
 import { HashRouter } from "react-router-dom";
 import 'styles/common.scss';
 import App from 'App';
 
-const rootElement = document.getElementById('root');
+// const rootElement = ;
 // if (!rootElement) throw new Error('Failed to find the root element');
 
-const root = createRoot(rootElement!);
+// @ts-ignore
+const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(
 	<HashRouter basename={'/'}><App /></HashRouter>
