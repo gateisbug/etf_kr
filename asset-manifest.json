@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/etf_kr/static/css/main.dbda22aa.css",
+    "main.js": "/etf_kr/static/js/main.2cab1f54.js",
+    "index.html": "/etf_kr/index.html",
+    "main.dbda22aa.css.map": "/etf_kr/static/css/main.dbda22aa.css.map",
+    "main.2cab1f54.js.map": "/etf_kr/static/js/main.2cab1f54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbda22aa.css",
+    "static/js/main.2cab1f54.js"
+  ]
+}
