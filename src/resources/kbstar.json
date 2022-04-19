@@ -1,0 +1,1344 @@
+[
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 미국장기국채선물인버스2X(합성 H)",
+    "ticker": "267500",
+    "explain": "미국채선물의 일일수익률에 음의 2배 성과를 추종하는 ETF. KBSTAR 미국장기국채선물인버스2X(합성 H) ETF는 미국 시카고 상품거래소에 상장된 미국채 선물 최근 월종목의 일간 수익율의 -2배를 추종합니다",
+    "tags": [
+      "레버리지/인버스",
+      "패시브"
+    ],
+    "index": "S&P US Treasury Bond Futures Excess Return Index",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4458",
+    "fee": "연 0.5%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 미국S&P원유생산기업(합성 H)",
+    "ticker": "219390",
+    "explain": "국내 최초 미국 원유/가스 탐사 및 생산기업에 투자하는 ETF. KBSTAR 미국S&P원유생산기업(합성H) ETF는 미국에 상장된 원유/가스 탐사 및 생산하는 기업(Oil & Gas Exploration & Production sub-industry)에 동일가중방식으로 투자합니다.",
+    "tags": [
+      "해외주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "SPSIOP Index",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4443",
+    "fee": "연 0.25%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 200철강소재",
+    "ticker": "285020",
+    "explain": "KOSPI200 지수 내에 철강소재 섹터에 속하거나 유사업종에 속한 기업에 투자하는 ETF. KBSTAR 200철강소재 ETF는 국내 시가총액 상위 200개 기업 중 섹터분류 상 철강소재섹터에 속한 기업에 유동주식수 가중방식으로 투자합니다.",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "KOSPI 200 철강소재",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4473",
+    "fee": "연 0.19%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 미국장기국채선물인버스(H)",
+    "ticker": "267450",
+    "explain": "미국채선물의 일일수익률에 음의 1배 성과를 추종하는 ETF. KBSTAR 미국장기국채선물인버스(H) ETF는 미국 시카고 상품거래소에 상장된 미국채 선물 최근 월종목의 일간 수익율을 -1배씩 추종합니다",
+    "tags": [
+      "레버리지/인버스",
+      "패시브"
+    ],
+    "index": "S&P US Treasury Bond Futures Excess Return Index",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4456",
+    "fee": "연 0.4%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 글로벌데이터센터리츠나스닥(합성)",
+    "ticker": "375270",
+    "explain": "5G·클라우드 기술로 대표되는 언택트 시대의 데이터 트래픽 증가 수혜를 누릴 수 있는 데이터센터&인프라 리츠에 투자하는 국내최초 ETF. KBSTAR 글로벌데이터센터리츠나스닥(합성) ETF는 언택트 시대의 트래픽 증가 수혜를 누릴 수 있는 데이터센터 및 인프라리츠에 투자합니다.",
+    "tags": [
+      "리츠",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "Kelly Data Center & Tech Infrastructure Net Total Return Index",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/44B2",
+    "fee": "연 0.4%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR KQ고배당",
+    "ticker": "270800",
+    "explain": "코스닥시장의 현금배당수익률이 높은 종목에선별투자하는 ETF. KBSTAR KQ고배당 ETF는 유동시가총액 기준으로 선별된 코스닥 종목 중 현금배당수익률이 높은 80개 종목에 우선 투자합니다.",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "FnGuide KQ고배당포커스 지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4462",
+    "fee": "연 0.3%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 국채선물10년인버스",
+    "ticker": "295020",
+    "explain": "국내 장기채권인 국채10년 선물지수의 일간 수익률의 음의 1배를 추구하는 ETF. KBSTAR 국채선물10년인버스 ETF는 10년 국채선물시장에 상장된 최근월 종목의 가격을 대상으로 산출되는 선물지수의 일간수익률의 음의 1배를 추종하는 방식으로 투자합니다.",
+    "tags": [
+      "레버리지/인버스",
+      "패시브"
+    ],
+    "index": "10년국채선물지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4483",
+    "fee": "연 0.07%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 200고배당커버드콜ATM",
+    "ticker": "290080",
+    "explain": "코스피200 고배당지수 종목 매수와 코스피200콜옵션 매도로 꾸준한 인컴 수익 고배당 및 옵션프리미엄을 추구하는 지수를 추종하는 ETF. KBSTAR 200고배당커버드콜ATM ETF는 고배당주 포트폴리오와 콜옵션(ATM)매도로 합성포지션에 투자합니다.",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "패시브"
+    ],
+    "index": "코스피 200 고배당 커버드콜 ATM",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4478",
+    "fee": "연 0.4%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 200선물인버스2X",
+    "ticker": "252420",
+    "explain": "코스피200 선물지수의 일간 수익률의 음의 2배 성과를 추구하는 ETF. KBSTAR 200선물인버스2X ETF는 코스피200선물지수 일간수익률의 음의 2배를 추종하는 것을 목표로 코스피200선물에 주로 투자합니다.",
+    "tags": [
+      "레버리지/인버스",
+      "패시브"
+    ],
+    "index": "KOSPI200 선물지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4449",
+    "fee": "연 0.6%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 200중공업",
+    "ticker": "285010",
+    "explain": "KOSPI200 지수 내에 중공업 섹터에 속하거나 유사업종에 속한 기업에 투자하는 ETF. / KBSTAR 200중공업 ETF는 국내 시가총액 상위 200개 기업 중 조선, 중공업 섹터에 속한 기업에 유동주식수 가중방식으로 투자합니다.",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "KOSPI 200 중공업",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4472",
+    "fee": "연 0.19%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 중소형고배당",
+    "ticker": "281990",
+    "explain": "코스피 중소형 및 코스닥 종목 중 우량한 고배당 종목에 투자하는 ETF. KBSTAR 중소형고배당 ETF는 배당팩터(현금배당지표)을 이용해 우량하고 배당이 높은 종목에 배당총액을 감안한 비중으로 투자합니다.",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "FnGuide 중소형 고배당포커스 지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4466",
+    "fee": "연 0.3%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 코스피ex200",
+    "ticker": "361590",
+    "explain": "중소형주 시장을 대표하는 코스피200 제외 코스피 지수를 추종하는 ETF. KBSTAR 코스피ex200 ETF는 코스피지수 구성종목 중에서 코스피200 구성종목을 제외한 나머지 종목에 투자합니다.",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "코스피200제외 코스피지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/44A6",
+    "fee": "연 0.25%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 코스닥150선물인버스",
+    "ticker": "275750",
+    "explain": "코스닥150 선물지수 일간수익률의 -1배를 추종하는 ETF. KBSTAR 코스닥150선물인버스 ETF는 코스닥150 선물지수의 일간 수익률의 -1배를 추종하는 것을 목표로 코스닥150 선물에 투자합니다.",
+    "tags": [
+      "레버리지/인버스",
+      "패시브"
+    ],
+    "index": "코스닥 150 선물",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4463",
+    "fee": "연 0.6%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 200경기소비재",
+    "ticker": "287310",
+    "explain": "KOSPI200 지수 내에 경기소비재 섹터에 속하거나 유사업종에 속한 기업에 투자하는 ETF. KBSTAR 200경기소비재 ETF는 국내 시가총액 상위 200개 기업 중 경기변동에 탄력성이 높은 소비재(자동차, 유통, 여행, 레저 등)기업에 유동주식수 가중방식으로 투자합니다.",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "KOSPI 200 경기소비재",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4475",
+    "fee": "연 0.19%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 200에너지화학",
+    "ticker": "284990",
+    "explain": "KOSPI200 지수 내에 에너지화학 섹터에 속하거나 유사업종에 속한 기업에 투자하는 ETF. KBSTAR 200에너지화학 ETF는 국내 시가총액 상위 200개 기업 중 섹터분류 상 에너지화학섹터에 속한 기업에 유동주식수 가중방식으로 투자합니다.",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "KOSPI 200 에너지화학",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4471",
+    "fee": "연 0.19%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 국채선물5년추종인버스",
+    "ticker": "397410",
+    "explain": "중기(듀레이션 5Y 수준) 국채선물지수의 일간 수익률의 음의 1배를 추구하는 ETF. KBSTAR 국채선물5년추종인버스 ETF는 5년 국채선물 듀레이션을 추종하기 위해 국채선물지수와 10년 국채선물지수를 70 : 30 비중으로 혼합한 지수의 일간 수익률 음의 1배를 추구하는 방식으로 투자합니다.",
+    "tags": [
+      "레버리지/인버스",
+      "패시브"
+    ],
+    "index": "5년 국채선물 추종 지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/44C1",
+    "fee": "연 0.07%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 200생활소비재",
+    "ticker": "287330",
+    "explain": "코스피 200 구성종목 중 생활소비재에 해당하는 종목에 투자하는 섹터 ETF. KBSTAR 200 생활소비재 ETF는 코스피200 구성종목 중 생활소비재 섹터 종목에 투자합니다.",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "KOSPI 200 생활소비재",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4477",
+    "fee": "연 0.19%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 200금융",
+    "ticker": "284980",
+    "explain": "KOSPI200 지수 내에 금융 섹터에 속하거나 유사업종에 속한 기업에 투자하는 ETF. KBSTAR 200금융 ETF는 국내 시가총액 상위 200개 기업 중 섹터분류 상 금융섹터에 속한 기업에 유동주식수 가중방식으로 투자합니다.",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "KOSPI 200 금융",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4470",
+    "fee": "연 0.19%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 국고채3년선물인버스",
+    "ticker": "282000",
+    "explain": "국채선물지수(F -KTB Index) 일간 수익률의 -1배 성과를 추구하는 ETF. KBSTAR 국고채3년선물인버스 ETF는 국채선물지수 (F -KTB Index) 를 기초지수로 하여 일간 변동률의 -1배수에 연동하도록 운용되며 3년국채선물에 주로 투자합니다.",
+    "tags": [
+      "레버리지/인버스",
+      "패시브"
+    ],
+    "index": "국채선물지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4467",
+    "fee": "연 0.07%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 중국본토대형주CSI100",
+    "ticker": "174360",
+    "explain": "중국 경제성장의 핵심, 중국본토 A주 주식에 투자하는 ETF. KBSTAR 중국본토대형주CSI100 ETF는 중국 본토를 대표하는 우량주 100종목에 투자합니다.",
+    "tags": [
+      "해외주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "CSI100지수(T-1)",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4437",
+    "fee": "연 0.65%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 팔라듐선물인버스(H)",
+    "ticker": "334700",
+    "explain": "팔라듐선물의 일간수익률의 -1배 성과를 추구하는 ETF. KBSTAR 팔라듐 선물인버스(H)는 S&P GSCI Palladium Excess Return Index 일간수익률의 -1배를 추종하는 것을 목표로 팔라듐 선물에 투자합니다.",
+    "tags": [
+      "레버리지/인버스",
+      "패시브"
+    ],
+    "index": "S&P GSCI Palladium Excess Ruturn Index",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4499",
+    "fee": "연 0.6%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR KRX기후변화솔루션",
+    "ticker": "403990",
+    "explain": "글로벌 트렌드 ESG, 그리고 기후변화. 온실가스 감축과 지구 온난화에 대한 문제 인식이 높아졌으며, 환경 오염을 줄여나가는 기업에 대한 관심이 증가하고 있습니다.",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "KRX기후변화솔루션지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/44C4",
+    "fee": "연 0.3%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 200선물인버스",
+    "ticker": "252410",
+    "explain": "KOSPI200 선물지수 일간 수익률의 -1배를 추종하는 ETF. KBSTAR 200선물인버스 ETF는 KOSPI200 선물지수의 일간 수익률의 -1배를 추종하는 것을 목표로 KOSPI200 선물에 투자합니다",
+    "tags": [
+      "레버리지/인버스",
+      "패시브"
+    ],
+    "index": "KOSPI200 선물지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4448",
+    "fee": "연 0.6%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR Fn컨택트대표",
+    "ticker": "388280",
+    "explain": "코로나19로 타격을 받은 컨택트 업종(항공, 호텔, 레저, 의류, 백화점 등) 관련 대표주에 투자하는 ETF. KBSTAR Fn컨택트대표ETF는 '항공운수' , '레저용품' , '섬유 및 의복' , '도소매' , '백화점', '미디어' 업종에 속하는 대표기업에 시가총액 가중방식으로 투자합니다.\n",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "FnGuide 컨택트 대표 지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/44B8",
+    "fee": "연 0.45%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 수출주",
+    "ticker": "140570",
+    "explain": "국내 대표 수출기업에 투자하는 ETF. KBSTAR 수출주 ETF는 한국경제를 주도하고 성장의 중심이 되는 국내 대표 수출주 50종목에 투자합니다",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "MKF수출주지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4433",
+    "fee": "연 0.4%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 미국S&P500",
+    "ticker": "379780",
+    "explain": "미국 주식시장을 대표하는 업종 상위 500개 기업에 투자하는 ETF. KBSTAR 미국S&P500 ETF는 규모, 유동성, 산업대표성 등을 감안하여 선정한 미국 주식시장 상위 500개 기업에 시가총액 가중방식으로 투자합니다.",
+    "tags": [
+      "해외주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "S&P 500 Index (KRW)(T-1)",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/44B3",
+    "fee": "연 0.021%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 우량업종대표주",
+    "ticker": "140580",
+    "explain": "KOSPI200 내 23개 업종 중 우량업종을 선별하여 투자하는 국내 최초 섹터로테이션 ETF. KBSTAR 우량업종대표주 ETF는 펀드멘탈이 우수한 10개 업종을 선별하여 해당 구성종목(1조원 이상 기업)에 3개월 단위, 동일비중으로 투자합니다.",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "MKF우량업종대표주지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4434",
+    "fee": "연 0.4%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR Fn5G테크",
+    "ticker": "367760",
+    "explain": "4차 산업혁명의 핵심 인프라인 5세대 이동통신(5G) 밸류체인을 구성하는 핵심기업에 투자하는 ETF. KBSTAR Fn5G테크 ETF는 5G 관련 통신장비, 기지국장비, 가입자망 장비 등 5G산업 밸류 체인을 구성하는 핵심 기업에 투자합니다.",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "FnGuide 5G 테크 지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/44A7",
+    "fee": "연 0.45%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 글로벌클린에너지S&P",
+    "ticker": "399580",
+    "explain": "정책 수혜와 사회 인식변화로 맞이한 장기적 투자기회. 단순 기후변화에 대한 기업 차원의 경제적 대응이 아닌 국가안보차원의 에너지원 확보가 중요해졌습니다.",
+    "tags": [
+      "해외주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "S&P Global Clean Energy Index(KRW)",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/44C3",
+    "fee": "연 0.4%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 고배당",
+    "ticker": "266160",
+    "explain": "주식시장의 성과를 추종하는 고배당 ETF. KBSTAR 고배당 ETF는 전년도 현금배당수익률이 높은 고배당주 종목에 배당총액을 감안한 비중으로 투자합니다.",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "FnGuide 고배당포커스 지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4454",
+    "fee": "연 0.2%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 모멘텀밸류",
+    "ticker": "252720",
+    "explain": "스마트베타전략(모멘텀, 밸류팩터)을 구사하여 코스피 시장의 우량한 종목에 투자하는 ETF. KBSTAR 모멘텀밸류 ETF는 코스피시장에 상장된 기업을 대상으로 하여 모멘텀팩터(최근수익률 우수)와 밸류팩터(순자산대비 우량)의 시너지효과를 극대화할 수 있는 투자를 합니다.",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "FnGuide 모멘텀&밸류 지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4453",
+    "fee": "연 0.35%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR V&S셀렉트밸류",
+    "ticker": "234310",
+    "explain": "V&S투자자문의 종목선정 노하우를 접목한 국내 최초 자문형 ETF. KBSTAR V&S셀렉트밸류 ETF는 유가증권시장 및 코스닥시장의 상장기업 중 내재가치 및 비즈니스가치가 우수한 기업들을 선별하고 동일가중 방식에 종목별 등급 Rating 차등을 적용하여 투자합니다.",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "FnGuide 셀렉트밸류 인덱스",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4444",
+    "fee": "연 0.3%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 미국나스닥100",
+    "ticker": "368590",
+    "explain": "글로벌 혁신기업의 상징인 나스닥100에 투자하는 ETF. KBSTAR 미국나스닥100 ETF는 미국 나스닥 시장에 상장된 우량 기술주 100종목에 투자합니다.",
+    "tags": [
+      "해외주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "NASDAQ 100 Index(KRW)(T-1)",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/44A9",
+    "fee": "연 0.021%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR Fn수소경제테마",
+    "ticker": "367770",
+    "explain": "차세대 친환경 에너지원으로 각광받고 있는 수소밸류체인 전반에 걸친 핵심기업에 투자하는 ETF. KBSTAR Fn수소경제테마 ETF는 코스피 및 코스닥에 상장한 수소밸류체인 핵심기업에 시가총액 가중방식으로 투자합니다.",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "FnGuide 수소 경제 테마 지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/44A8",
+    "fee": "연 0.45%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 내수주플러스",
+    "ticker": "326230",
+    "explain": "대내외 경기와 상관없이 안정적인 주가흐름을 보이는 내수주 종목에 투자하는 ETF. KBSTAR 내수주플러스 ETF는 코스닥 및 코스피 시장에 상장된 대표적인 경기방어주인 내수주에 투자합니다",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "FnGuide 내수주플러스지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4497",
+    "fee": "연 0.4%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 비메모리반도체액티브",
+    "ticker": "388420",
+    "explain": "국내 비메모리 반도체 산업 밸류체인 전반에 걸친 핵심기업에 투자하는 ETF. KBSTAR 비메모리반도체액티브ETF는 비메모리 반도체 산업 밸류체인(반도체 디자인/ 제조/ 패키징/ 테스트) 전반에 걸친 핵심 기업에 투자합니다.",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "액티브"
+    ],
+    "index": "iSelect 비메모리",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/44B9",
+    "fee": "연 0.5%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 단기통안채",
+    "ticker": "196230",
+    "explain": "대표적 안전자산인 통안증권을 주식처럼 쉽고 빠르게 투자할 수 있는 ETF. KBSTAR 단기통안채 ETF는 Risk-free자산인 잔존만기 0~10개월의 통안증권 10종목에 투자합니다.",
+    "tags": [
+      "국내채권",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "KIS MSB 5M Index",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4441",
+    "fee": "연 0.13%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR KIS단기종합채권(AA-이상)액티브",
+    "ticker": "385550",
+    "explain": "신용등급 AA-이상의 국내 단기채권시장의 흐름을 추종하며 초과수익 추구하는 ETF. KBSTAR KISE단기종합채권(AA-이상)액티브 ETF는 신용등급 AA-이상의 단기 국공채 및 크래딧 채권에 주로 투자합니다.",
+    "tags": [
+      "국내채권",
+      "개인연금",
+      "퇴직연금",
+      "액티브"
+    ],
+    "index": "KIS 단기종합채권 지수(AA-이상)",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/44B6",
+    "fee": "연 0.05%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 차이나HSCEI(H)",
+    "ticker": "250730",
+    "explain": "홍콩증권거래소에 상장된 H-Share 종목 중 규모가 크고 유동성이 풍부한 기업에 투자하는 ETF. KBSTAR 차이나HSCEI(H) ETF는 홍콩증시에 상장된 중국 우량 블루칩 지수인 HSCEI지수 구성종목(홍콩에 상장된 중국본토기업 대상)에 주로 투자합니다.",
+    "tags": [
+      "해외주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "HSCEI index(T-1)",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4446",
+    "fee": "연 0.4%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 단기국공채액티브",
+    "ticker": "272560",
+    "explain": "MMF수준의 안정성과 시가채권펀드의 수익성을 동시에 추구하는 ETF. KBSTAR 단기국공채액티브 ETF는 단기국공채에 주로 투자하여 안정성과 유동성을 높이고, 신용등급이 우수한 우량채권을 선별하여 투자합니다.",
+    "tags": [
+      "국내채권",
+      "개인연금",
+      "퇴직연금",
+      "액티브"
+    ],
+    "index": "KIS 종합채권국공채 3M-1.5Y 지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4460",
+    "fee": "연 0.07%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 글로벌수소경제Indxx",
+    "ticker": "417450",
+    "explain": "신재생 에너지가 가지는 단점을 극복할 수 있는 수소. 수소는 대용량/장기간 저장이 가능하며, 운송이 용이합니다.\n또한 화석연료 사용시 발생하는 대기오염물질을 방출하지 않아 기후변화 대응에 효과적입니다.",
+    "tags": [
+      "해외주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "Indxx Hydrogen Economy NTR Index(KRW)",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/44C6",
+    "fee": "연 0.4%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 200산업재",
+    "ticker": "287320",
+    "explain": "KOSPI200 지수 내에 산업재 섹터에 속하거나 유사업종에 속한 기업에 투자하는 ETF. KBSTAR 200산업재 ETF는 국내 시가총액 상위 200개 기업 중 항공, 해운, 전선 및 상사 등의 업무를 영위하는 기업에 유동주식수 가중방식으로 투자합니다.",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "코스피 200 산업재",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4476",
+    "fee": "연 0.19%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR KRX300미국달러선물혼합",
+    "ticker": "319870",
+    "explain": "국내 최초의 통화 + 주식 혼합자산 ETF. KBSTAR KRX300미국달러선물혼합 ETF는 대한민국 대표 지수 KRX300 선물과 달러선물에 투자합니다.",
+    "tags": [
+      "혼합자산",
+      "개인연금",
+      "패시브"
+    ],
+    "index": "KRX300 미국달러 선물혼합 지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4495",
+    "fee": "연 0.3%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 코스피",
+    "ticker": "302450",
+    "explain": "대한민국을 대표하는 코스피 지수를 추종하는 ETF. KBSTAR 코스피 ETF는 약 2,500개 종목으로 구성된 코스피 지수의 움직임과 유사하게 움직일 수 있도록 선별된 종목에 투자합니다.",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "KOSPI지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4489",
+    "fee": "연 0.14%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 유로스탁스50(H)",
+    "ticker": "379790",
+    "explain": "유럽 대표지수인 EURO STOXX 50를 추종하는 ETF. KBSTAR 유로스탁스50(H) ETF는 유로존 8개국(벨기에, 핀란드, 프랑스 ,독일 ,아일랜드 ,이탈리아, 네덜란드, 스페인 )에 상장된 대표 우량 기업 상위 50 개에 투자합니다.",
+    "tags": [
+      "해외주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "Euro Stoxx50",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/44B4",
+    "fee": "연 0.021%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 중국 MSCI China(H)",
+    "ticker": "310080",
+    "explain": "홍콩 H주, Red Chip, P-chip 및 본토 A주 까지! 전세계 상장된 중국기업에 투자하는 ETF. KBSTAR 중국MSCI China(H) ETF는 시장의 흐름을 반영한 중국 신경제 관련 기업에 광범위하게 분산투자합니다.",
+    "tags": [
+      "해외주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "MSCI China NTR Index(USD)",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4492",
+    "fee": "연 0.6%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 차이나H선물인버스(H)",
+    "ticker": "291680",
+    "explain": "홍콩선물거래소에 상장된 HSCEI선물지수의 일간수익률의 음의 1배를 추구하는 ETF. KBSTAR 차이나H선물인버스(H) ETF는 홍콩시장에 상장된 중국 우량 블루칩 지수인 HSCEI선물지수(최근월 종목의 가격과 동일하게 연동하는 지수)의 일간수익률의 음의 1배수를 추종하는 방식으로 투자합니다.",
+    "tags": [
+      "레버리지/인버스",
+      "패시브"
+    ],
+    "index": "HSCEI 선물지수(T-1)",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4480",
+    "fee": "연 0.591%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR V&S셀렉트밸류채권혼합",
+    "ticker": "241390",
+    "explain": "정기예금 이상의 수익을 추구하는 중위험·중수익 ETF. KBSTAR V&S셀렉트밸류채권혼합 ETF는 채권의 안정성과 주식의 수익성을 동시에 갖춘 상품으로 채권과 주식의 비중을 6:4로 투자합니다.",
+    "tags": [
+      "혼합자산",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "FnGuide 셀렉트밸류 채권혼합 지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4445",
+    "fee": "연 0.23%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 5대그룹주",
+    "ticker": "105780",
+    "explain": "한국을 대표하는 5대 그룹 핵심 우량주에 분산투자하는 ETF. KBSTAR 5대그룹주 ETF는 강한 시장지배력을 갖춘 국내 5대그룹(삼성, 현대차, LG, SK, 카카오 등)의 핵심기업 25종목을 선별하여 시가총액비중으로 투자합니다.",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "MKF 5대그룹주지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4413",
+    "fee": "연 0.4%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 미국고정배당우선증권ICE TR",
+    "ticker": "354240",
+    "explain": "주식과 채권의 속성을 동시에 보유한 고정배당우선증권에 투자하는 ETF. KBSTAR 미국고정배당우선증권ICE TR ETF는 미국 주식시장에 주식처럼 상장되어 거래되면서 채권처럼 정기 고정배당금을 지급하는 증권에 투자합니다.",
+    "tags": [
+      "해외주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "ICE BofA Core Plus Fixed Rate Preferred Securities Index(KRW)",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/44A4",
+    "fee": "연 0.5%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 모멘텀로우볼",
+    "ticker": "252730",
+    "explain": "스마트베타전략(모멘텀, 로우볼팩터)을 구사하여 코스피시장에 장기적으로 투자하는 ETF. KBSTAR 모멘텀로우볼 ETF는 코스피시장에 상장된 기업을 대상으로 하여 모멘텀팩터(최근수익률 우수)와 로우볼팩터(변동성 낮음)의 시너지 효과를 극대화할 수 있는 투자를 합니다.",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "FnGuide 모멘텀&로우볼 지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4452",
+    "fee": "연 0.35%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 중기우량회사채",
+    "ticker": "136340",
+    "explain": "저금리 시대를 대비하는 쉽고 똑똑한 방법, 국내최초 회사채 ETF. KBSTAR 중기우량회사채 ETF는 신용등급 A-이상, 회사채, 기타금융채, 은행채 중 대표성과와 유동성을 감안하여 선정된 100여개 종목에 투자합니다.",
+    "tags": [
+      "국내채권",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "KOBI Credit Index",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4432",
+    "fee": "연 0.07%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 금융채액티브",
+    "ticker": "336160",
+    "explain": "은행채와 기타금융채에 투자하여 안정성과 추가수익을 기대하는 ETF. KBSTAR 금융채액티브 ETF는 잔존만기 2.5~3Y을 만족하는 은행채 AAA (산금채, 중금채, 수출입은행 포함) 및 A0이상 기타금융채에 시가총액 가중방식으로 투자합니다.",
+    "tags": [
+      "국내채권",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "KIS종합채권금융채 2.5-3Y",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4500",
+    "fee": "연 0.07%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 200TR",
+    "ticker": "361580",
+    "explain": "배당을 재투자하는 코스피200 총수익지수를 추종하는 ETF. KBSTAR 200TR ETF는 배당 수익의 재투자 효과를 누릴 수 있는 코스피200 총수익지수 종목에 투자합니다.",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "KOSPI 200 TR",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/44A5",
+    "fee": "연 0.012%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 200IT",
+    "ticker": "285000",
+    "explain": "KOSPI200 지수 내에 정보기술 섹터에 속하거나 유사업종에 속한 기업에 투자하는 ETF. KBSTAR 200IT ETF는 국내 시가총액 상위 200개 기업 중 정보기술(Information Technology)섹터를 대표하는 기업에 유동주식수 가중방식으로 투자합니다.",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "KOSPI 200 정보기술",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4469",
+    "fee": "연 0.05%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 국고채3년",
+    "ticker": "114100",
+    "explain": "국고채 3종목 투자를 통해 듀레이션 약 3년 내외의 채권투자성과를 기대하는 ETF. KBSTAR 국고채3년 ETF는 대표 안전자산인 국고채에 투자하는 ETF로, 각 종목을 채권액면금액 동일비중방식으로 투자하는 국내최초 채권형 ETF입니다.",
+    "tags": [
+      "국내채권",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "KTB채권지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4427",
+    "fee": "연 0.115%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 채권혼합",
+    "ticker": "183700",
+    "explain": "국내주식과 국고채에 3:7 비율로 투자하는 혼합형 ETF. KBSTAR 채권혼합 ETF는 KOSPI200 국내주식과 KTB 3년 국고채에 3:7 비율로 투자합니다.",
+    "tags": [
+      "혼합자산",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "주식국채혼합(채권형)지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4440",
+    "fee": "연 0.2%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 200",
+    "ticker": "148020",
+    "explain": "대한민국을 대형주 시장을 대표하는 코스피200 지수추종 ETF. KBSTAR 200 ETF는 200개 종목으로 구성된 코스피200 지수의 움직임과 유사하게 움직일 수 있도록 선별된 종목에 투자합니다.",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "KOSPI200",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4435",
+    "fee": "연 0.017%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 주식혼합",
+    "ticker": "183710",
+    "explain": "국내주식과 국고채에 7:3 비율로 투자하는 혼합형 ETF. KBSTAR 주식혼합 ETF는 KOSPI200 국내주식과 KTB 3년 국고채에 7:3 비율로 투자합니다.",
+    "tags": [
+      "혼합자산",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "주식국채혼합(주식형)지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4439",
+    "fee": "연 0.25%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR KRX300",
+    "ticker": "292050",
+    "explain": "코스피, 코스닥 종목 전체를 대상으로 섹터별 대표우량기업 300종목을 선별하여 투자하는 ETF. KBSTAR KRX300 ETF는 코스닥 및 코스피 시장에서 300개의 우량종목으로 구성된 KRX300 지수를 추종하는 것을 목표로 합니다.",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "KRX 300",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4481",
+    "fee": "연 0.05%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 글로벌메타버스Moorgate",
+    "ticker": "411720",
+    "explain": "플랫폼 오브 플랫폼이 될 메타버스. 온라인 쇼핑과 배달, 콘텐츠 중심의 플랫폼에서 진화해 메타버스는 삶의 플랫폼으로서 기능할 것으로 전망됩니다.",
+    "tags": [
+      "해외주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "Global Metaverse Index(KRW)",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/44C5",
+    "fee": "연 0.5%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 중장기국공채액티브",
+    "ticker": "272570",
+    "explain": "중장기 국공채의 안정성과 시가채권펀드의 수익성을 동시에 추구하는 ETF. KBSTAR 중장기국공채액티브 ETF는 중장기 국채 및 특수채에 주로 투자하여 안정성과 유동성을 높이고, 신용등급이 우수한 우량채권을 선별하여 투자합니다.",
+    "tags": [
+      "국내채권",
+      "개인연금",
+      "퇴직연금",
+      "액티브"
+    ],
+    "index": "KIS 종합채권국공채 4-5Y 지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4461",
+    "fee": "연 0.07%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 국채선물5년추종",
+    "ticker": "397420",
+    "explain": "중기(듀레이션 5Y 수준) 국채선물에 투자하여 금리변동에 따른 자본차익에 집중한 ETF. KBSTAR 국채선물5년추종 ETF는 5년 국채선물 듀레이션을 추종하기 위해 국채선물지수와 10년 국채선물지수를 70 : 30 비중으로 혼합하여 투자합니다.",
+    "tags": [
+      "국내채권",
+      "개인연금",
+      "패시브"
+    ],
+    "index": "5년 국채선물 추종 지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/44C0",
+    "fee": "연 0.07%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR ESG사회책임투자",
+    "ticker": "290130",
+    "explain": "ESG평가대상기업 중 사회(S)책임평가점수가 높은 착한 기업에 투자하는 ETF. KBSTAR ESG사회책임투자 ETF는 코스피 및 코스닥 상장기업 중 기업지배구조원의 사회책임 평가항목 점수 상위기업에 시가총액 가중방식으로 투자합니다.",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "KRX 사회책임경영",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4479",
+    "fee": "연 0.3%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR KIS종합채권(A-이상)액티브",
+    "ticker": "385540",
+    "explain": "신용등급 A-이상의 국내 채권시장전체의 흐름을 추종하며 초과수익을 추구하는 ETF. KBSTAR KIS종합채권(A-이상)액티브 ETF는 신용등급 A-이상의 국공채 및 크래딧 채권 (및 기업어음) 에 주로 투자합니다.",
+    "tags": [
+      "국내채권",
+      "개인연금",
+      "퇴직연금",
+      "액티브"
+    ],
+    "index": "KIS 종합채권지수(A-이상)",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/44B5",
+    "fee": "연 0.05%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR Fn K-뉴딜 디지털플러스",
+    "ticker": "368200",
+    "explain": "코스피 및 코스닥 상장기업들 중 BBIG (Battery, Bio, Internet Service, Game) 각 섹터별 시가총액 상위 5종목을 선별투자하는 ETF. KBSTAR Fn K-뉴딜디지털플러스 ETF는 정부의 한국판 뉴딜 정책의 비전을 구체화 할 수 있는 미래 성장 주도 산업인 BBIG 에 투자합니다.",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "FnGuide K-뉴딜 디지털 플러스 지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/44B0",
+    "fee": "연 0.09%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 대형고배당10TR",
+    "ticker": "315960",
+    "explain": "시가총액 상위 고배당 10종목에 투자하는 ETF. KBSTAR 대형고배당10TR ETF는 시가총액 상위 종목 중 현금배당을 많이 하는 10개 종목에 투자합니다.",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "WISE 대형고배당10 TR 지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4494",
+    "fee": "연 0.15%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 200건설",
+    "ticker": "287300",
+    "explain": "KOSPI200 지수 내에 건설 섹터에 속하거나 유사업종에 속한 기업에 투자하는 ETF. KBSTAR 200건설 ETF는 국내 시가총액 상위 200개 기업 중 국내 대표 건설기업에 유동주식수 가중방식으로 투자합니다.",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "KOSPI 200 건설",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4474",
+    "fee": "연 0.05%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 코스닥150",
+    "ticker": "270810",
+    "explain": "코스닥시장을 대표하는 코스닥150 지수를 추종하는 ETF. KBSTAR 코스닥150 ETF는 코스피 시장을 대표하는 코스피200 ETF와 같이 코스닥시장을 대표하는 코스닥150 종목에 투자합니다.",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "코스닥 150",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4459",
+    "fee": "연 0.18%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR IT플러스",
+    "ticker": "326240",
+    "explain": "완전한 정보기술섹터에 투자하는 ETF. KBSTAR IT플러스ETF는 하부산업그룹 기준으로 '소프트웨어', '하드웨어', '반도체', '디스플레이' 에 해당하는 IT 섹터 종목에 시가총액 가중방식으로 투자합니다.",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "FnGuide IT플러스지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4496",
+    "fee": "연 0.4%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 헬스케어채권혼합",
+    "ticker": "253290",
+    "explain": "채권의 안정성과 주식의 수익성을 겸비한 혼합형 ETF. KBSTAR 헬스케어채권혼합 ETF는 자산의 70%수준을 국고채에 투자하고 30%는 헬스케어 섹터 종목에 투자합니다.",
+    "tags": [
+      "혼합자산",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "FnGuide 헬스케어 채권혼합 지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4451",
+    "fee": "연 0.35%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 글로벌4차산업IT(합성 H)",
+    "ticker": "276650",
+    "explain": "대형 IT 기업으로 구성된 S&P Global 1200 IT & Interactive Media & Services Index 를 추종하는 ETF. KBSTAR 글로벌4차산업IT(합성H) ETF는 4차 산업혁명을 주도하는 글로벌 IT기업에 투자합니다.",
+    "tags": [
+      "해외주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "S&P Global 1200 IT & Interactive M&S Index(T-1)",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4464",
+    "fee": "연 0.4%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 200선물레버리지",
+    "ticker": "252400",
+    "explain": "코스피200 선물지수의 일간 수익률 2배의 성과를 추구하는 ETF. KBSTAR 200선물레버리지 ETF는 코스피200선물지수 일간수익률의 2배를 추종하는 것을 목표로 코스피200선물에 주로 투자합니다.",
+    "tags": [
+      "레버리지/인버스",
+      "패시브"
+    ],
+    "index": "KOSPI200 선물지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4447",
+    "fee": "연 0.6%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 국채선물10년",
+    "ticker": "295000",
+    "explain": "장기국채선물에 투자하여 금리변동에 따른 자본차익에 집중한 ETF. KBSTAR 국채선물10년 ETF는 선물시장에 상장된 국채선물10년의 최근월 종목의 가격을 추종하며 유사한 수익률을 실현하도록 운용되는 ETF입니다.",
+    "tags": [
+      "국내채권",
+      "개인연금",
+      "패시브"
+    ],
+    "index": "10년국채선물지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4482",
+    "fee": "연 0.07%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 차이나항셍테크",
+    "ticker": "371150",
+    "explain": "홍콩 증권거래소에 상장된 테크관련 기업에 집중투자하는 ETF. KBSTAR 차이나항셍테크 ETF는 홍콩메인보드시장에 상장된 인터넷, 핀테크, 전자상거래, 디지털 관련 기업 30종목에 시가총액방식으로 투자합니다.",
+    "tags": [
+      "해외주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "HANGSENG TECH INDEX(T-1)",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/44B1",
+    "fee": "연 0.14%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR KRX300레버리지",
+    "ticker": "307010",
+    "explain": "KRX300지수의 일간 수익률의 +2배를 추종하는 ETF. KBSTAR KRX300레버리지 ETF는 코스닥 및 코스피 시장에서 300개의 우량종목으로 구성된 KRX300 지수의 일간 수익률의 +2배를 추종하는것을 목표로 합니다.",
+    "tags": [
+      "레버리지/인버스",
+      "패시브"
+    ],
+    "index": "KRX 300",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4490",
+    "fee": "연 0.55%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 팔라듐선물(H)",
+    "ticker": "334690",
+    "explain": "팔라듐선물 일간수익률의 +1배 성과를 추구하는 ETF. KBSTAR 팔라듐 선물(H) ETF는 S&P GSCI Palladium Excess Return Index 일간수익률의 +1배수를 추종하여 팔라듐 선물에 투자합니다.",
+    "tags": [
+      "원자재/통화",
+      "개인연금",
+      "패시브"
+    ],
+    "index": "S&P GSCI Palladium Excess Ruturn Index",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4498",
+    "fee": "연 0.6%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 200커뮤니케이션서비스",
+    "ticker": "315480",
+    "explain": "4차 산업혁명을 이끌어가는 핵심업종에 투자하는 ETF. KBSTAR 200커뮤니케이션서비스 ETF는 코스피200 구성종목 중 커뮤니케이션서비스 섹터 종목에 투자합니다.",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "코스피 200 커뮤니케이션서비스",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4493",
+    "fee": "연 0.19%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 미국장기국채선물(H)",
+    "ticker": "267440",
+    "explain": "미국 국채 금리 하락시(채권가격 상승) S&P US Treasury Bond Futures Excess Return Index 일간수익률의 +1배수 수익을 추구하는 ETF. KBSTAR 미국장기국채선물(H) ETF는 장기 미국채선물 (U.S Treasury Bond Futures)에 투자합니다.",
+    "tags": [
+      "해외채권",
+      "개인연금",
+      "패시브"
+    ],
+    "index": "S&P US Treasury Bond Futures Excess Return Index",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4455",
+    "fee": "연 0.4%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 게임테마",
+    "ticker": "300640",
+    "explain": "국내 게임소프트웨어 기업에 투자하는 업계 최초 ETF. KBSTAR 게임테마 ETF는 '게임소프트웨어와 서비스' 섹터에 포함된 기업 및 게임사업을 영위하는 기업에 시가총액 가중방식으로 투자합니다.",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "WISE 게임 테마 지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4488",
+    "fee": "연 0.3%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR iSelect메타버스",
+    "ticker": "401170",
+    "explain": "빠른 성장 및 지속적 확장을 통해 글로벌 메가 트렌드로 부상하는 메타버스 핵심 기업에 투자하는 ETF!. 메타버스 경제는 4차산업혁명, 전세계 언택트 문화 확산 등에 따라 성장이 가속화 되며 202년까지 4,764억 달러 수준으로 성장할것으로 전망됩니다.",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "iSelect 메타버스 지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/44C2",
+    "fee": "연 0.45%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 헬스케어",
+    "ticker": "253280",
+    "explain": "국내 헬스케어 기업(의료장비 및 서비스, 바이오, 제약)에 투자하는 ETF. KBSTAR 헬스케어 ETF는 MKF500 내 종목 중 의료섹터에 속한 기업을 유니버스로 하여 시가총액을 감안한 비중으로 투자합니다.",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "FnGuide 헬스케어 지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4450",
+    "fee": "연 0.05%",
+    "distribution": "지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 코스닥150선물레버리지",
+    "ticker": "278240",
+    "explain": "코스닥150 선물지수 일간 수익률의 2배 성과를 추구하는 ETF. KBSTAR 코스닥150선물레버리지 ETF는 코스닥150선물지수 일간수익률의 2배를 추종하는 것을 목표로 코스닥150선물에 주로 투자합니다.",
+    "tags": [
+      "레버리지/인버스",
+      "패시브"
+    ],
+    "index": "코스닥 150 선물",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4465",
+    "fee": "연 0.6%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 미국장기국채선물레버리지(합성 H)",
+    "ticker": "267490",
+    "explain": "미국채선물의 2배 수익률을 추종하는 ETF. KBSTAR 미국장기국채선물레버리지(H) ETF는 미국 시카고 상품거래소에 상장된 미국채 선물 최근 월종목의 일간 수익률의 2배를 추종합니다",
+    "tags": [
+      "레버리지/인버스",
+      "패시브"
+    ],
+    "index": "S&P US Treasury Bond Futures Excess Return Index",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/4457",
+    "fee": "연 0.5%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR KIS국고채30년Enhanced",
+    "ticker": "385560",
+    "explain": "KIS국고채30 년Enhanced 지수 일간 수익률의 1 배 성과를 추구하는 ETF. KBSTAR KIS국고채30년Enhanced ETF는 KIS국고채30년 Enhanced 지수 일간수익률의 1배를 추종하는 것을 목표로 국고채30년물에 주로 투자합니다.",
+    "tags": [
+      "국내채권",
+      "개인연금",
+      "퇴직연금",
+      "패시브"
+    ],
+    "index": "KIS 국고채30년Enhanced 지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/44B7",
+    "fee": "연 0.05%",
+    "distribution": "미지급"
+  },
+  {
+    "operator": "KB자산운용",
+    "name": "KBSTAR 2차전지액티브",
+    "ticker": "422420",
+    "explain": "구조적, 장기적 테마인 2차전지 산업. 2차전지 최대 수요처인 전기차는 내연기관 패러다임을 바꾸는 구조적 테마이며, 교체주기가 긴 자동차의 특성 상 장기 흐름이 될 것으로 기대됩니다.",
+    "tags": [
+      "국내주식",
+      "개인연금",
+      "퇴직연금",
+      "액티브"
+    ],
+    "index": "iSelect2차전지지수",
+    "link": "http://www.kbstaretf.com/prod/finderDetail/44C7",
+    "fee": "연 0.35%",
+    "distribution": "미지급"
+  }
+]
