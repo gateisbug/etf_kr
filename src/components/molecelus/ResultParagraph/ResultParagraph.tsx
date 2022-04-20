@@ -13,10 +13,12 @@ export default function ResultParagraph({ etf }:Props) {
 	const tags = useMemo(() => {
 		if(etf.tags.length < 1) return <p className={cx("opterator")}>{etf.operator}</p>;
 
+		const limitedTags = etf.tags.slice(0, 2)
+
 		return (
 			<p className={cx("opterator")}>
 				<span className={cx("opterator")}>{etf.operator}</span>
-				<span className={cx('tags')}>{etf.tags.map((item, idx) => <span className={cx("tag")} key={idx}>{item}</span>)}</span>
+				<span className={cx('tags')}>{limitedTags.map((item, idx) => <span className={cx("tag")} key={idx}>{item}</span>)}</span>
 			</p>
 		)
 	}, [etf.tags, etf.operator])
@@ -28,9 +30,11 @@ export default function ResultParagraph({ etf }:Props) {
 	return (
 		<section className={cx("Result")}>
 			{tags}
-			<h1 className={cx("header")} onClick={onClick}>
-				{`${etf.name} (${etf.ticker})`}
-			</h1>
+			<a href={etf.link} target="_blank" rel={"noreferrer noopener"}>
+				<h1 className={cx("header")}>
+					{`${etf.name} (${etf.ticker})`}
+				</h1>
+			</a>
 			<article className={cx("article")}>
 				<div className={cx("detail")}>
 					<p>

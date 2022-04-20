@@ -11,7 +11,8 @@ export default function useFilter() {
 	const [word, setWord] = useState<string>("");
 
 	const result = useMemo(() => {
-		return Index.filter(res => Filtering(word, res))
+		const filtered = Index.filter(res => Filtering(word, res))
+		return filtered.sort((a, b) => (a.priority! - b.priority!))
 	}, [word])
 
 	useEffect(() => {
@@ -25,17 +26,57 @@ export default function useFilter() {
 function Filtering(word:string, index:ETF):boolean {
 	if(word.length < 1) return false;
 
-	const tags = index.tags.find(el => el.toLowerCase().includes(word.toLowerCase()))
-	if(tags) return true;
+	if(word === '지급' || word === '미지급' || word === '배당금') {
+		index.priority = 1;
+		switch (word) {
+			case "지급":
+				return exact(index.distribution);
+			case "미지급":
+				return exact(index.distribution);
+			case "배당금":
+				return index.distribution === '지급';
+		}
+	}
 
-	if(index.operator.toLowerCase() === word.toLowerCase()) return true;
+	if(exact(index.ticker)) {
+		index.priority = 1;
+		return true;
+	}
 
-	const list = [
-		index.name.toLowerCase(),
-		index.ticker.toLowerCase(),
-		index.index.toLowerCase(),
-		index.explain.toLowerCase()
-	];
+	if(like(index.name)) {
+		index.priority = 1;
+		return true;
+	}
 
-	return !!list.find(element => element.includes(word.toLowerCase()));
+	if(!!index.tags.find(el => like(el))) {
+		index.priority = 2;
+		return true;
+	}
+
+	if(exact(index.operator)) {
+		index.priority = 2;
+		return true;
+	}
+
+	if(like(index.ticker)) {
+		index.priority = 3;
+		return true;
+	}
+
+	if(like(index.explain)) {
+		index.priority = 4;
+		return true;
+	}
+
+	return false;
+
+
+
+	function exact(item:string) {
+		return item.toLowerCase() === word.toLowerCase();
+	}
+
+	function like(item:string) {
+		return item.toLowerCase().includes(word.toLowerCase());
+	}
 }

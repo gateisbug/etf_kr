@@ -12,4 +12,5 @@ export interface ETF {
 	distribution: string;
 	tags: string[];
 	link: string;
+	priority?: number;
 }
