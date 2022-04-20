@@ -58,10 +58,10 @@ function Filtering(word:string, index:ETF):boolean {
 		return true;
 	}
 
-	if(like(index.ticker)) {
-		index.priority = 3;
-		return true;
-	}
+	// if(like(index.ticker)) {
+	// 	index.priority = 3;
+	// 	return true;
+	// }
 
 	if(like(index.explain)) {
 		index.priority = 4;

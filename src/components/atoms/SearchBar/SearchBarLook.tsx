@@ -1,7 +1,7 @@
 import React from "react";
 import classNames from "classnames/bind";
 import styles from "./Search.module.scss";
-import { Block, Clear, Icon, Input } from "./core";
+import { Block, Clear, Icon, Input } from "./proton";
 
 interface Props {
 	text: string;
